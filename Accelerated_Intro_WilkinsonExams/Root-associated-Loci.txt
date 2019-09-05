@@ -1,0 +1,858 @@
+AT1G01550	bps1-2	Growth of bps1-2 mutants on CPTA-supplemented medium resulted in partial rescue of both leaf and root defects. bps1-2 mutants grown on control growth medium have small radialized leaves with very little vascular tissue, and very short misshapen knotted-looking roots. By contrast, bps1-2 mutants grown on CPTA-supplemented medium produced larger flattened leaves that contained primary and secondary veins, and smooth elongated root
+AT1G01550	bps1-2	Mutant roots were abnormal; primary and lateral roots were short, root hairs formed close to the root apex, and root
+AT1G01550	bps1-2	Under high light conditions (approximately 200 &mu;E.m-2.sec-1), CPTA-treated seedlings were completely photobleached and mutants showed rescue of both leaf and root development. Under moderate (approximately 100 &mu;E.m-2.sec-1) and low (30 &mu;E.m-2.sec-1) light intensities, seedlings are incompletely photobleached, but leaf and root
+AT1G02970	wee1-1	significant decreased root elongation rates, densely clustered hairs at the root tip and outgrowth of lateral root
+AT1G03000	pex6	Resistant to root elongation inhibition by IBA but responds normally to IAA.  Fails to respond to the stimulatory effects of IBA on lateral root initiation but makes lateral roots in response to IAA.  Specifically defective in IBA responses.  Has several peroxisome-defective phenotypes:  does not develop normally without exogenous sucrose, dramatic defects in hypocotyl and root elongation in the absence of sucrose. Shorter root
+AT1G03060	spi-11	Trichome cells have shorter branches, reduced stalk length and width.  Epidermal pavement cells are less complex, with less lobing.  Root hairs are shorter and root
+AT1G03060	spi-12	Trichome cells have shorter branches, reduced stalk length and width.  Epidermal pavement cells are less complex, with less lobing.  Root hairs are shorter and root
+AT1G03060	spi-139	Trichome cells have shorter branches, reduced stalk length and width.  Epidermal pavement cells are less complex, with less lobing.  Root hairs are shorter and root
+AT1G03060	spi-4.2	Trichome cells have shorter branches, reduced stalk length and width.  Epidermal pavement cells are less complex, with less lobing.  Root hairs are shorter and root
+AT1G04020	bard1-3	Mutant meristems develop abnormally.The meristem is enlarged shortly after germination and appears disorganized. Primordia are irregular and lateral organs produced include tubular and finger-like structures. Also affects the development of roots. Primary root growth is inhibited. The root
+AT1G04030	bard1-3	Mutant meristems develop abnormally.The meristem is enlarged shortly after germination and appears disorganized. Primordia are irregular and lateral organs produced include tubular and finger-like structures. Also affects the development of roots. Primary root growth is inhibited. The root
+AT1G04160	CS859930	There are no obvious defects in the aerial tissues, roots, or root hairs of xi-b mutant plants grown under normal conditions. There are also no obvious defects in organelle trafficking. Double mutant analysis reveals a role for xi-b in root
+AT1G04160	SALK_113062C	There are no obvious defects in the aerial tissues, roots, or root hairs of xi-b mutant plants grown under normal conditions. There are also no obvious defects in organelle trafficking. Double mutant analysis reveals a role for xi-b in root
+AT1G04160	xi-2 / xi-b	The overall growth of the xi-2 / xi-b double mutant is normal. In the leaf epidermis, Golgi stacks and peroxisomes move more slowly in these mutant cells than in wild-type cells. The rate of mitochondrial movement is also slightly reduced. Root hair length is reduced to ~15% of the wild type root hair length in these double mutants, but their root
+AT1G04220	daisy-2	significantly reduced root
+AT1G04250	CS57505	The mutant is less affected by brassinolide than wildtype with regard to inhibition of root
+AT1G05180	AXL/axl-1 axr1-12	Homozygous axr1-12 plants that are heterozygous for axl-1 display severe growth defects. These seedlings developed short, slow growing roots compared with wild-type root
+AT1G05180	AXL/axl-1 axr1-12	The columella of AXL/axl-1 axr1-12/axr1-12 root tips is highly disorganized during early seedling root growth, and is completely disrupted at the time when root
+AT1G05180	CS8038	auxin resistant; irregular rosette leaves, slightly curled around leaf axis; roots very auxin resistant; defective root gravitropism; reduced number of lateral root
+AT1G05850	pom1-1	Callus-induced root
+AT1G05850	pom1-7	When grown on media containing 0.5% sucrose, the mutant had reduced root
+AT1G05850	pom1-8	When grown on media containing 0.5% sucrose, the mutant had reduced root
+AT1G06290	acx3-2	Plants display decreased sensitivity to the inhibitory effect of indole-3-butyric acid (IBA) on root elongation, while remaining sensitive to inhibitory concentrations of indole-3-acetic acid.  They maintain their ability to initiate lateral root
+AT1G06290	acx3-4	Plants display decreased sensitivity to the inhibitory effect of indole-3-butyric acid (IBA) on root elongation, while remaining sensitive to inhibitory concentrations of indole-3-acetic acid.  They maintain their ability to initiate lateral root
+AT1G08030	SALK_009847	Seedlings of tpst-1 had stunted roots and smaller cotyledons compared with the WT.  tpst-1 has an abnormally shaped root
+AT1G08260	tilted1-4	Twenty-five percent of embryos show abnormal cell divisions during embryogenesis-large cells- decreased rate of cell division. Division of the hypohyseal cell abnormal leading to abnormal placement of the root
+AT1G08370	dcp1-2	The homozygous progeny is seedling lethal, showed arrested postembryonic development including cotyledon expansion, development of vascular networks, root
+AT1G08430	Atalm1-KO	On Al3+ medium, the mutant has significantly shorter roots than the Col wild type. In the absence of aluminum stress, the root
+AT1G08430	Atalm1-KO	The mutant exhibits very low levels of root
+AT1G09100	rpt5b	Insensitive to high-glucose repression of cotyledon expansion, chlorophyll accumulation, true-leaf development and root
+AT1G09110	rpt5b	Insensitive to high-glucose repression of cotyledon expansion, chlorophyll accumulation, true-leaf development and root
+AT1G09940	athema2	no visible phenotype. decreased heme contents in root
+AT1G10130	eca3-1	Shoot and root
+AT1G10570	ots1-1 ots2-1	The ots1-1 ots2-1 double mutant plants flower earlier than wild type plants under long days and short days. They do not differ notably from wild type plants with respect to their overall growth rate, inflorescence structure, or seedling primary root elongation rate. But, they are hypersensitive to salt based on root
+AT1G11130	scm-1	Position of root-hair cells is scrambled.  Only 66% of epidermal cells (compared with 92% in wild type) overlying two cortical cells develop as root hairs, and 21% of epidermal cells overlying one cortical cell (compared with 1% in wild type) develop as root
+AT1G12240	SALK_100813 (homozygous)	Significantly shorter root
+AT1G12610	ddf1-LF1	Longer root
+AT1G13290	dot5-1	dot5-1 mutants have a misaligned venation defect in their leaves and cotyledons. Their phenotypes may vary somewhat, but dot5-1 mutants often have shorter root
+AT1G14290	sbh1-1 sbh2-1	Dwarf plants with reduced vigor, dies before expansion of the true leaves, necrotic lesions on cotyledons. When grew on agar plates, the double mutants displayed extended viability and developed into compact and epinastic rosette with small curled leaves and short petioles, however no bolting. Short root
+AT1G14660	SALK_070497	Li+ hypersensitive. Under low Li+ concentrations, germination of mutant seeds and elongation of root
+AT1G14660	SALK_086336	Li+ hypersensitive. Under low Li+ concentrations, germination of mutant seeds and elongation of root
+AT1G15550	ga3ox1-3	Root
+AT1G15550	ga3ox1-3 ga3ox2-1	Severe defect in root
+AT1G15690	avp1-1	Shoot defects include: smaller leaves, decreased cell number in leaves, mesophyll and vascular patterning disorganized, cup-shaped cotyledons.Root defects: small cells at apex, columella cell layers reduced to 2, deformed root
+AT1G16150	wakl4-1	Seedlings consistently show retarded root growth when grown in full- or one-half-strength MS nutrients and are hypersensitive, as assayed by a root
+AT1G17110	ubp15-1	ubp15-1 mutants exhibit several anatomical defects related to leaf, root
+AT1G17170	gst	As for the root growth assay, the root elongation of both the mutant and the wild-type was inhibited at lower concentrations of TNT than 2,6-DNT. In addition, there was no statistically significant difference of the root
+AT1G17440	eer4	Root
+AT1G17580	SALK_019031C	There are no obvious defects in the aerial tissues, roots, or root
+AT1G17580	xi-k / xi-1	The xi-k / xi-1 double mutant plants are shorter and have smaller rosettes than wild type plants. Their reduced leaf size results from decreased cell size and decreased cell number. These double mutants produce fewer seeds per silique than wild type plants. In the leaf epidermis, Golgi stacks, peroxisomes, and mitochondria move more slowly in these mutant cells than in wild-type cells. Root hair length is reduced to ~35% of the wild type root hair length in these double mutants, but their root
+AT1G18350	bud1	bud1 plants develop significantly fewer  lateral root
+AT1G18800	nrp1-1 nrp2-1	Double mutant plants showed a short-root phenotype: roots grew like the wild-type roots until 6 d after germination (DAG). However, after 7 DAG, the elongation of the double mutant roots was dramatically reduced compared with the wild-type root
+AT1G19220	CS24617	The primary roots of the mutant produce as many lateral root
+AT1G19220	CS24617	no obvious auxin-related growth phenotype, but root
+AT1G19220	CS24618	no obvious auxin-related growth phenotype, but root
+AT1G19220	CS24625	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT1G19220	CS24625	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT1G19220	CS24625	nph4-1 arf19 double mutant;  agravitropic response in both hypocotyls and roots; impaired phototropic response in hypocotyls; impaired lateral root
+AT1G19220	CS24626	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT1G19220	CS24626	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT1G19220	CS24626	nph4-1 arf19 double mutant;  agravitropic response in both hypocotyls and roots; impaired phototropic response in hypocotyls; impaired lateral root
+AT1G19220	CS24627	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT1G19220	CS24627	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT1G19220	CS24628	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT1G19220	CS24628	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT1G19220	CS24629	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT1G19220	CS24629	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT1G19220	CS24630	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT1G19220	CS24630	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT1G19220	arf19-101	Long hypocotyl and elongated primary roots when germinated and grown on MS with sirtinol in darkness.  Auxin resistant in both light and dark.  Roots are less sensitive to the ethylene precursor ACC than wt root
+AT1G19220	arf7-201 arf19-101	Dark grown seedlings on sirtinol have both long primary roots and long hypocotyls.  More resistant to 2,4-D and IAA than single mutants in both light and dark.  The ethylene resistant root
+AT1G20700	pst13645	Reduced fertility, short siliques and aborted seeds. Late flowering. Reduced number of lateral root
+AT1G21270	wak2-1	On pond water without sucrose, most  wak2-1 seedlings arrested or slowed growth.  The wak2-1 seedlings were significantly (P < 0.001) shorter  than wild-type, with the roots being affected more than the  hypocotyls. Arrest of  wak2-1 on pond water was rescued by the addition of 60 mM sucrose,  fructose or glucose, but not sorbitol or mannitol. When grown in the dark for 3 weeks on soil, wak2-1 plants have less hypocotyl extension than wild type. wak2-1 affects the rate of cell elongation in root
+AT1G21700	atswi3c-1	Delayed development,semi-dwarf growth habit, and formation of aberrant rosettes.  The rosette and cauline leaves are severely twisted along the proximodistal axis, leading to a downward curvature of the lateral edges toward the abaxial leaf surface. Cross sections of leaves showed an increased protrusion of mesophyll cell files around the vascular bundles.  The root system is greatly reduced, because elongation of primary roots is inhibited. Seedlings develop several side roots and secondary root
+AT1G21970	CS3867	Embryo lethal; viviparous embryos with cotyledons partially transformed into leaves; embryos sensitive to abscisic acid; embryos have reduced hypocotyl, cotyledons that remain green late in development; reduced protein and lipid bodies with starch being predominant storage product in mutant embryos. Trichomes form on cotyledons after germination; internal cells of cotyledons enlarge, vacuolate and resemble leaf mesophyll cells; intercellular spaces are prominant in cotyledons; enlarged shoot apical meristem; stomata are found on surface of cotyledons of mutant embryos; mature seeds are desiccation intolerant, however, immature seeds can be rescued before silique drying and germinated to produce seedlings. Root
+AT1G21970	CS8101	Embryo lethal; viviparous embryos with cotyledons partially transformed into leaves; embryos sensitive to abscisic acid; embryos have reduced hypocotyl, cotyledons that remain green late in development; reduced protein and lipid bodies with starch being predominant storage product in mutant embryos. Trichomes form on cotyledons after germination; internal cells of cotyledons enlarge, vacuolate and resemble leaf mesophyll cells; intercellular spaces are prominant in cotyledons; enlarged shoot apical meristem; stomata are found on surface of cotyledons of mutant embryos; mature seeds are desiccation intolerant, however, immature seeds can be rescued before silique drying and germinated to produce seedlings. Root
+AT1G22920	csn5a-1	Shorter hypocotyls in the dark, shorter  roots, smaller flowers, a decreased number of root
+AT1G22920	csn5a-2	Shorter hypocotyls in the dark, shorter  roots, smaller flowers, a decreased number of root
+AT1G23010	lpr1-1	Long primary root
+AT1G23010	lpr1-2	Long primary root
+AT1G23310	ggt1-1 (LUC)	In the absence of ABA treatment, root
+AT1G23320	tar1-1	This mutant does not have any obvious morphological defects and it responds normally to ACC and IAA in hypocotyl and root
+AT1G23320	wei8-1 tar1-1 tar2-1	These triple mutants do not make a primary root
+AT1G26870	SALK_025663	Homozygotes have a reduced number of columella root cap (COL) and lateral root cap (LRC) cell layers. Meristem length, meristem cell number and root
+AT1G27320	ahk2-1cu ahk3-1cu	Root
+AT1G27320	ahk2-1cu ahk3-1cu ahk4-1cu	Aborted vascular system containing few protoxylem cells in the primary root. Normal adventitious root
+AT1G27320	ahk2-1cu ahk3-1cu ahk4-1cu	Adventitious root
+AT1G27320	ahk2-1cu ahk3-1cu ahk4-1cu	Does not produce lateral roots from the primary root. However, 10 days after germination, lateral roots are formed at the upper part of the hypocotyl rather than at the root
+AT1G27320	ahk2-1cu ahk3-1cu ahk4-1cu	Normal vascular system in adventitious roots, although the hypocotyl and primary root
+AT1G27320	ahk2-1cu ahk3-1cu ahk4-1cu	Postembryonic growth of root
+AT1G27320	ahk2-1cu ahk3-1cu ahk4-1cu	Reduced seedling size with small cotyledons, slightly shortened hypocotyls (65% of wildtype) and significantly reduced root
+AT1G27320	ahk2-1ms ahk3-1ms	Normal root
+AT1G27320	ahk2-2tk ahk3-3	Normal root
+AT1G27320	ahk2-2tk ahk3-3	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT1G27320	ahk2-5 ahk3-7	Displays secondary lateral root
+AT1G27320	ahk2-5 ahk3-7 cre1-2	Increased seed size, largely due to increased size of the embryo. Embryonic root
+AT1G27320	ahk3-1cu ahk4-1	Root
+AT1G27320	ahk3-3	The meristem of the mutants did not stop growing at 5 dpg and kept increasing in size. Furthermore, the growth rate of mutant roots was higher than the wild-type, resulting in longer root
+AT1G27320	ahk3-3 arr1-4	The root
+AT1G27320	ahk3-3 arr12-2	The root
+AT1G27320	ahk3-7 cre1-2	Displays secondary lateral root
+AT1G27320	cre1-10 ahk2-1ms ahk3-1ms	Shoot and root
+AT1G27320	cre1-10 ahk3-1ms	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT1G27320	stip-d ahk2-2 ahk3-3 cre1-12	Small SAM and limited root
+AT1G27760	atsat32	Reduced fertility. Increased root length (longer root
+AT1G28300	CS3868	Embryo lethal, embryos not viviparous, cotyledons partially transformed into leaves, complex vascular pattern observed in cotyledons. Embryos are sensitive to abscisic acid. Mutant seeds were usually desiccation tolerant at maturity, although their viability was reduced slightly after several weeks of storage. Dry seeds often germinated to produce seedlings with distorted cotyledons. This defect resulted from degeneration of cotyledon tips prior to germination. Some trichomes form on cotyledons after germination and stomata are found on surface of cotyledons of mutant embryos The cotyledon surface on seedlings produced from dry seeds lacked trichomes (likely because any trichomes initiated during embryogenesis did not survive desiccation). Mutant seeds were consequently highly pigmented at maturity and anthocyanins were especially prominent in the top half of the mutant cotyledons. Mutant embryos do not form root
+AT1G28560	srd2	temperature-sensitive mutant. srd2 seedlings grown at  the permissive temperature (22C) appeared almost normal. At 28C,  both hypocotyl and root explants of the srd2 mutant could  not establish shoot apical meristems de novo. When  primary root segments of srd2 were cultured on root-inducing  medium (RIM) at 28C, abnormal lateral root primordia  lacking functional apical meristems were frequently observed.  except that they had fewer lateral roots than the wild-type  seedlings. At the restrictive temperature (28C however, the development of true leaves and primary roots in srd2  seedlings was severely interrupted. Whereas root
+AT1G29260	pex7-1	Displays peroxisomal defects such as reduced sensitivity to exogenously applied IBA.  Fewer lateral root
+AT1G29990	pdf6-1	Seedlings exhibit root swelling when grown in the presence of 100 nM oryzalin and have a 25% reduction in hypocotyl length. Reduced cell size is due to defects in the microtubules. Microtubules in the root
+AT1G30270	cipk23-1	Enhanced drought tolerance. Hypersensitive to ABA inhibition  of light-induced stomatal opening. Loss of function of CIPK23 alters the ABA  responsiveness of guard cells during their opening and  closure, leading to reduced water loss under drought  conditions. When grown on media containing low levels of KCl (micromolar  range), cipk23 mutants displayed drastically reduced  stature compared to the wild-type. In particular, the root
+AT1G31480	sgr2-1	Inflorescence stem failed to curve upward even after 6 h of horizontal gravistimulation. Plant size not affected in this mutation, inflorescence stem twisted as the elongated, and the lateral branches twisted downward. Reduced gravitropic response of ethyolated hypocotyls. Root
+AT1G31880	CS6879	Short-root phenotype, characterized by short primary root and more branched root
+AT1G31880	brx-2	lateral root formation in the mutant is insensitive to exogenous cytokinin; altered auxin response in lateral root
+AT1G31880	brx-3	enhanced response to ABA-mediated inhibition of root
+AT1G31880	brxS	The roots of brxS seedlings are as short, both when grown in the light or in darkness. In contrast to the root system, the shoot system morphology and flowering time of brxS plants resembles the Sav-0 shoot system, which was used as the control. Cell elongation and cell production rate in the root meristematic and elongation zone were decreased in brxS seedlings, contributing approximately one-third and two-thirds, respectively, to the overall difference in root
+AT1G32450	SALK_005099 HOMOZYGOUS	Defective in xylem transport of nitrate from root to shoot. Morphologically WT when grown on soil. When grown on plates, root
+AT1G32500	SALK_055996	Homozygous offsprings of the T-DNA line show a characteristic set of phenotypes. The chlorophyll content is reduced to 75% compared to wild type. Plants appear slightly bleached. The ultrastructure of the plastids is conspicuously different to wild type plastids. Most evident is the structure of the thylakoids, which are reduced and the grana are unorganized compared to the wild type situation. The overall architecture of mutant homozygous plants is slightly altered compared to wild type. Root
+AT1G33280	brn1-1; brn2-1	Columella root
+AT1G33280	smb-3; brn1-1; brn2-1	Root cap cells appear as a mass lacking uniform morphology. Cells can be highly elongated and twisted.   Cells fail to stop elongation and to  adopt the rigid, rectangular morphology of COL cells.   When compared with smb-3, the triple mutant has thesame number of complete LRC layers, and the appearance of the cells in those layers closely resembles that in smb-3. However, partial remains of older LRC layers remain attached to the meristem in the triple mutant, giving it a messy appearance. Remains of old LRC cap layers can be  found still attached to the root
+AT1G33290	brn1-1; brn2-1	Columella root
+AT1G33290	smb-3; brn1-1; brn2-1	Root cap cells appear as a mass lacking uniform morphology. Cells can be highly elongated and twisted.   Cells fail to stop elongation and to  adopt the rigid, rectangular morphology of COL cells.   When compared with smb-3, the triple mutant has thesame number of complete LRC layers, and the appearance of the cells in those layers closely resembles that in smb-3. However, partial remains of older LRC layers remain attached to the meristem in the triple mutant, giving it a messy appearance. Remains of old LRC cap layers can be  found still attached to the root
+AT1G34370	STOP1-KO	Reduced root
+AT1G34370	stop1	No root
+AT1G34370	stop1	Reduced root
+AT1G35580	cinv1	Concentration of sucrose in the mutant root
+AT1G35580	cinv1	Shortened root
+AT1G35580	cinv1	atinvg mutants have reduced root
+AT1G47056	vfb1-1/vfb2-1/vfb3-1/vfb4rnai	Defects in lateral root formation, delayed root
+AT1G47720	SALK_086929	Retarted root
+AT1G47720	osb1-1	Retarted root
+AT1G48380	rhl1-2	Extreme dwarf in the dark and in the light.  Reduced root
+AT1G48920	parl1-1	parl1-1 mutants, initially identified based on their aberrant parallel venation pattern in juvenile leaves, exhibit several other developmental defects. They have abnormal venation patterns in their cotyledons, adult leaves, petals, and sepals. In addition, they are shorter, have abnormal leaf shapes, and have reduced apical dominance, rosette size, fertility, and root
+AT1G49240	act2-1/act8-2	Lacks root hairs.Root
+AT1G49240	act8-2	Short root hairs. 50% reduction in root
+AT1G49240	act8-2/act7-4	Plants are dwarf. Leaves are smaller and contain fewer cells and fewer lobes than wild type. Reduced number of trichome branches. Petals are narrow. Roots are more severely affected and produce short root
+AT1G50960	ga2ox7-2	Longer root
+AT1G51190	plt3-1/plt2-2/plt1-4	Rootless.Embryonic root differentiates 3 days after germination. Adventitious root
+AT1G52340	aba2-2	Mutant showed a similar sensitivity to 25 mM trehalose as wild type (inhibition of root
+AT1G53330	CB_1265	30-40% T3 seeds are embryo lethal, the rest had delayed germination. Among the germinated plants, they displayed a range of phenotypic expression: 1) seedling lethal, 2) normal cotyledons later became elongated and fragile, slightly narrower and curved rosette leaves, reduced shoot apical dominancy, elongated internode, shorter primary roots and long lateral root
+AT1G53700	wag1-1/wag2-1	Morphologically similar to wild type. When seedlings were grown on vertical plates, root
+AT1G53700	wag1-2	Morphologically similar to wild type. When seedlings were grown on vertical plates, root
+AT1G53700	wag1-2/wag2-1	Morphologically similar to double mutant wag1-1/wag2-1. When seedlings were grown on vertical plates, root exhibited pronounced wavy pattern. Gravitropism was not affected in mutant plants. Double mutant plants were more resistant to inhibition of root
+AT1G53940	SALK_025414C	has increased number of lateral root
+AT1G53940	SALK_109449C	has increased number of lateral root
+AT1G54180	SALK_017909	No visible root
+AT1G54960	anp2 anp3	Delayed growth,short roots, multiply branched root hairs.Radially expanded root
+AT1G54990	CS8018	auxin resistant; irregular rosette leaves, slightly curled around leaf axis; roots elongate on auxin-containing medium; defective root gravitropism; reduced number of lateral root
+AT1G54990	CS8038	auxin resistant; irregular rosette leaves, slightly curled around leaf axis; roots very auxin resistant; defective root gravitropism; reduced number of lateral root
+AT1G54990	CS8040	auxin resistant; narrow, irregular rosette leaves, slightly curled around leaf axis; roots elongate on auxin-containing medium; defective root gravitropism; reduced number of lateral root
+AT1G54990	axr4-1 aux1-7	auxin resistant; narrow, irregular rosette leaves, slightly curled around leaf axis; roots elongate on auxin-containing medium; defective root gravitropism; reduced number of lateral root
+AT1G55020	SALK_059431	developed more emergent (stage VIII) and lateral roots at 10 d. has a moderate increase in the length of the primary root
+AT1G55250	hub2-1	Reduction in the rosette biomass to 43 and 42% of fresh and dry weight of Col, respectively , and weak but significant (P < 0.001) inhibition of the root
+AT1G55320	aae18-1	Resistant to 2,4-dichlorophenoxybutyric acid (2,4 DB), a compound that is metabolized to active auxin. When grown in the presence of pro-auxins, root
+AT1G55320	aae18-2	Resistant to 2,4-dichlorophenoxybutyric acid (2,4 DB), a compound that is metabolized to active auxin. When grown in the presence of pro-auxins, root
+AT1G55870	ahg2-1	Hypersensitive to exogenous and endogenous ABA during germination due to accumulation of high levels of ABA.  The lengths of the main root, hypocotyl and stem of ahg2-1 were significantly shorter than those of the wild type. The growth rate of the main root
+AT1G56560	SALK_109830C	atinva mutants have reduced root
+AT1G58250	sab1-1	Mutation causes abnormal cell expansion of the root cortical cell. A shift in the orientation of expansion from longitudinal to radial direction was observed in the root
+AT1G58250	sab1-2	Mutation causes abnormal cell expansion of the root cortical cell. A shift in the orientation of expansion from longitudinal to radial direction was observed in the root
+AT1G58250	sab1-3	Mutation causes abnormal cell expansion of the root cortical cell. A shift in the orientation of expansion from longitudinal to radial direction was observed in the root
+AT1G58360	aap1-1	no obvious phenotype, endurance to toxic concentration of phenylalanine (2 mM) which did not influence development of root
+AT1G58360	aap1-2	no obvious phenotype, endurance to toxic concentration of phenylalanine (2 mM) which did not influence development of root
+AT1G58440	dry2	Plants are hypersensitive to drought. Mutants have decreased stomatal conductance when grown in low relative humidity. Root architecture is affected: roots are 60% shorter than wild type and produce more lateral roots. Lateral roots are shortr and branched.Plants are shorter and leaves are yellow green. Chemically, the mutants have decreased sterols in the root
+AT1G58440	sqe1-3	Dark grown seedlings have shorter hypocotyls characteristic of de-etiolated seedlings. Root
+AT1G59870	ko-1	shoot FW, root
+AT1G59870	ko-2	shoot FW, root
+AT1G60220	ots1-1 ots2-1	The ots1-1 ots2-1 double mutant plants flower earlier than wild type plants under long days and short days. They do not differ notably from wild type plants with respect to their overall growth rate, inflorescence structure, or seedling primary root elongation rate. But, they are hypersensitive to salt based on root
+AT1G60490	vps34	Similar to wild type siblings. Normal root
+AT1G62830	swp1-1	Root
+AT1G62990	knat7	No visible root
+AT1G63440	hma5-1	Accumulation of Cu in both root
+AT1G63440	hma5-1	Seedlings germination is totally arrested (both aerial parts and root
+AT1G63440	hma5-1	Seedlings grown on 30 &#956;M Cu display yellow cotyledons, with completely arrested root
+AT1G63440	hma5-2	Accumulation of Cu in both root
+AT1G63440	hma5-2	Seedlings germination is totally arrested (both aerial parts and root
+AT1G63440	hma5-2	Seedlings grown on 30 &#956;M Cu display yellow cotyledons, with completely arrested root
+AT1G64440	CS2257	Decrease root
+AT1G64440	reb1-1	Bulging epidermal cells on the root
+AT1G64440	reb1-1	Decreased root
+AT1G64440	reb1-1	Less galactose in root
+AT1G64440	reb1-1	Root
+AT1G64440	reb1-1	Root
+AT1G64440	reb1-1	Structural changes of xyloglucan in root
+AT1G64440	reb1-2	At the restrictive temperature, epidermal bulging is observed and root
+AT1G64520	rpn12a-1 (C24)	The rpn12a-1 mutant produces both the WT RPN12a protein and a RPN12a(1-186):ARP(exon2):NPTII fusion protein. The mutant form of the protein can coelute with subunits of the 26S proteasome from the regulatory and core particles and there is no increase in total steady state levels of ubiquitinated proteins in homozygous mutant seedlings. This mutant has seedling growth defects, elevated anthocyanin levels, abnormal leaf root development, delayed skotomorphogenesis, altered cytokinin responses, and reduced auxin sensitivity in their root
+AT1G64780	amt1;2-1	The amt1;2-1 mutant appears to grow normally on  media with different levels of ammonium or ammonium nitrate, but, seems slightly more resistant to methylammonium that wild type seedlings. High affinity ammonium uptake is reduced in the root
+AT1G64780	amt1;2-2	The amt1;2-2 mutant appears to grow normally on  media with different levels of ammonium or ammonium nitrate, but, seems slightly more resistant to methylammonium that wild type seedlings. High affinity ammonium uptake is reduced in the root
+AT1G64990	gtg1-1 gtg2-1	These double mutants are hyposensitive to ABA in seed germination, post-germination development, root
+AT1G66340	etr1-3	Increased number of lateral root
+AT1G66600	abo3	When grown on MS medium with ABA, abo3 mutant was more sensitive to ABA than the wild type during seedling establishment. Mutant seedlings exhibited slower root
+AT1G67490	knf-101	Increased number of root
+AT1G67500	rev3-1	The root
+AT1G67940	atstar1	atstar1 knock-out line exhibited increased sensitivity to Al. The root
+AT1G68460	atipt1 atipt 3 atipt 5 atipt7	External application of <i>trans</i>-zeatin partially rescues the growth of aerial parts of the mutant, and reduced its lateral root
+AT1G68460	atipt1 atipt 3 atipt 5 atipt7	Reduced cambial activity and reduced secondary growth in both shoots and root
+AT1G68460	atipt1 atipt 3 atipt 5 atipt7	Relative to wild type, both the number of lateral roots (longer than 1cm) and the total length of the lateral root
+AT1G68740	pho1-4/pho1;h1-1	Strong reduction in growth and in the capacity to transfer phosphate (Pi) from the root
+AT1G69640	sbh1-1 sbh2-1	Dwarf plants with reduced vigor, dies before expansion of the true leaves, necrotic lesions on cotyledons. When grew on agar plates, the double mutants displayed extended viability and developed into compact and epinastic rosette with small curled leaves and short petioles, however no bolting. Short root
+AT1G70070	ise2-1	Homozygous mutant seeds can germinate in vitro on agar plates containing Murashige and Skoog (MS) salt plus 1% sucrose, although the  growth/developmental rate of the homozygous seedlings was slower compared with that of wild-type seedlings. Whereas wild-type seedlings displayed fully expanded green cotyledons, true leaves and a well-developed root system by 14 d after germination, homozygous seedlings were much smaller and white or pale green in color. Underdeveloped cotyledons emerged from the homozygous seeds but expanded very slowly and sometimes showed bumpy irregular surfaces and occasional anthocyanin expression. Partial greening was observed in ise2 seedlings only after culture for several weeks. Most of the homozygous seedlings developed leaf-like structures that were translucent and contained trichomes. The aerial portions of the homozygous seedlings generally were stunted and thicker and frequently exhibited callus-like structures after extended periods of culture. Mutant seedlings often form stunted inflorescence shoot- and flower-like organs but normal-looking roots and root
+AT1G70210	cycd1;1	During germination, the onset of cell proliferation in root
+AT1G70560	wei8-1	The hypocotyl of this mutant responds normally to ACC when grown in the dark, but, its roots are moderately less sensitive to ACC than wild type seedlings grown under the same conditions. This difference in sensitivity can be eliminated when the mutants are treated with ACC and low levels of IAA. wei8-1 and wild type hypocotyls and roots respond similarly to IAA in the absence of ACC. The root
+AT1G70560	wei8-1 tar1-1 tar2-1	These triple mutants do not make a primary root
+AT1G70560	wei8-1 tar2-1	The roots of this mutant show almost no sensitivity to the ethylene precursor ACC, but sensitivity is largely restored by the addition of low levels of IAA (but not tryptophan). ACC-triggered dark-grown apical hook formation is also compromised in this mutant, and it is not restored by the addition of IAA. Root gravitropism is more disrupted in this double mutant than in either single mutant. The mutant plants are shorter than wild type, have reduced venation in their leaves, exhibit reduced apical dominance, and produce abnormal flowers. DR5:GUS expression is also diminished in these double mutants, consistent with a ~50% reduction in IAA levels in these mutants. Root meristematic cells differentiate in this mutant, leading to a loss of the stem cell niche and the cessation of root
+AT1G70560	wei8-1 tar2-2	ACC-triggered dark-grown apical hook formation is compromised in this mutant. Root meristematic cells differentiate in this mutant, leading to a loss of the stem cell niche and the cessation of root
+AT1G70560	wei8-2	The hypocotyl of this mutant responds normally to ACC when grown in the dark, but, its roots are moderately less sensitive to ACC than wild type seedlings grown under the same conditions. This difference in sensitivity can be eliminated when the mutants are treated with ACC and low levels of IAA. wei8-2 and wild type hypocotyls and root
+AT1G71100	rsw10	Bulging of epidermal cells is observed in root
+AT1G71100	rsw10	Root
+AT1G73360	edt1	edt1 mutant plants show enhanced drought tolerance due to overexpression of the HDG11 protein. edt1 mutants have a longer primary root with more lateral roots, and have a higher root
+AT1G73370	SALK_019129C	The amounts of glucose, fructose, sucrose, cellulose (root
+AT1G73370	sus6 (SAIL)	The amounts of glucose, fructose, sucrose, cellulose (root
+AT1G73370	sus6 (WISC)	The amounts of glucose, fructose, sucrose, cellulose (root
+AT1G74030	eno1-1	Trichomes are less turgescent and are distorted with respect to the wild type.  Plants also have fewer root
+AT1G74030	eno1-2	Trichomes are less turgescent and are distorted with respect to the wild type.  Plants also have fewer root
+AT1G74560	nrp1-1 nrp2-1	Double mutant plants showed a short-root phenotype: roots grew like the wild-type roots until 6 d after germination (DAG). However, after 7 DAG, the elongation of the double mutant roots was dramatically reduced compared with the wild-type root
+AT1G74660	35S::MIF1	Constitutive overexpression of MIF1 caused dramatic  developmental defects, including dwarfism, reduced apical dominance, extreme longevity, dark-green leaves,  altered flower morphology, poor fertility, reduced hypocotyl length, spoon-like cotyledons, reduced root  growth, and ectopic root hairs on hypocotyls and cotyledons. In addition, 35S::MIF1 seedlings underwent  constitutive photomorphogenesis in the dark, with root
+AT1G76030	vha-B1	Insensitive to high-glucose repression of cotyledon expansion, chlorophyll accumulation, true-leaf development and root
+AT1G76490	hmg1	Inhibition of root
+AT1G77110	SALK_046393	shorter visible lateral roots at 9 days after germination.  The proximal region of each lateral root in the mutant is significantly swollen and often bent.  Growth and morphology of the primary root
+AT1G78240	tsd2-1	Increased activity of axial meristems, reduced root
+AT1G79580	SALK_143526C	Additional columella root cap and lateral root cap cell layers in the mature embryo and postembryonic root development. Root meristem length and cell number is similar to WT. Extra layer of small, stem-cell-like cells, below the columella and lateral root
+AT1G79580	SALK_143526C	Delayed maturation and shedding of lateral root cap cells. The root
+AT1G79580	smb-3; brn1-1; brn2-1	Root cap cells appear as a mass lacking uniform morphology. Cells can be highly elongated and twisted.   Cells fail to stop elongation and to  adopt the rigid, rectangular morphology of COL cells.   When compared with smb-3, the triple mutant has thesame number of complete LRC layers, and the appearance of the cells in those layers closely resembles that in smb-3. However, partial remains of older LRC layers remain attached to the meristem in the triple mutant, giving it a messy appearance. Remains of old LRC cap layers can be  found still attached to the root
+AT1G80100	ahp6-1	increased number of vascular cell files with  intervening procambial and phloem cell files; protoxylem differentiation  occurred sporadically along the root
+AT1G80100	ahp6-2	increased number of vascular cell files with intervening procambial and phloem cell files; protoxylem differentiation occurred sporadically along the root
+AT1G80340	ga3ox1-3 ga3ox2-1	Severe defect in root
+AT1G80340	ga3ox2-1	Root
+AT2G01830	CRE1:wol-1	Wildtype root
+AT2G01830	CRE1:wol-2	Wildtype root
+AT2G01830	CS6563	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT2G01830	ahk2-1cu ahk3-1cu ahk4-1cu	Aborted vascular system containing few protoxylem cells in the primary root. Normal adventitious root
+AT2G01830	ahk2-1cu ahk3-1cu ahk4-1cu	Adventitious root
+AT2G01830	ahk2-1cu ahk3-1cu ahk4-1cu	Does not produce lateral roots from the primary root. However, 10 days after germination, lateral roots are formed at the upper part of the hypocotyl rather than at the root
+AT2G01830	ahk2-1cu ahk3-1cu ahk4-1cu	Normal vascular system in adventitious roots, although the hypocotyl and primary root
+AT2G01830	ahk2-1cu ahk3-1cu ahk4-1cu	Postembryonic growth of root
+AT2G01830	ahk2-1cu ahk3-1cu ahk4-1cu	Reduced seedling size with small cotyledons, slightly shortened hypocotyls (65% of wildtype) and significantly reduced root
+AT2G01830	ahk2-5 ahk3-7 cre1-2	Increased seed size, largely due to increased size of the embryo. Embryonic root
+AT2G01830	ahk2-5 cre1-2	Displays secondary lateral root
+AT2G01830	ahk3-7 cre1-2	Displays secondary lateral root
+AT2G01830	ahk4-1	Addition of IAA to the medium completely inhibits root
+AT2G01830	ahk4-1	Root
+AT2G01830	cre1-10 ahk2-1ms	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT2G01830	cre1-10 ahk2-1ms ahk3-1ms	Shoot and root
+AT2G01830	cre1-10 ahk3-1ms	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT2G01830	cre1-11	No defect in root
+AT2G01830	cre1-11	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT2G01830	cre1-12	Reduced cytokinin-induced inhibition of adventitious root
+AT2G01830	cre1-12	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT2G01830	cre1-12 ahk2-2tk	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT2G01830	cre1-12 ahk2-2tk ahk3-3	Shoot and root
+AT2G01830	cre1-12 ahk2-2tk ahk3-3	Shorter root
+AT2G01830	cre1-12 ahk2-2tk ahk3-3	The size and activity of the root
+AT2G01830	cre1-12 ahk3-3	No cytokinin-induced inhibition of adventitious root
+AT2G01830	cre1-12 ahk3-3	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT2G01830	cre1-2	Resistant to cytokinin in root
+AT2G01830	cre1-3	In the presence of kinetin, lateral root
+AT2G01830	cre1-3	Root
+AT2G01830	cre1-4	In the presence of kinetin, lateral root
+AT2G01830	stip-d ahk2-2 ahk3-3 cre1-12	Small SAM and limited root
+AT2G01830	wol	Absence of periclinal cell divisions in the primary root
+AT2G01830	wol	Defect in cell division in the root
+AT2G01830	wol	Reduced cell number and exclusive xylem differentiation within the root
+AT2G01830	wol	Root
+AT2G01830	wol-1:cre1-4	Wildtype root
+AT2G01830	wol-1:wol-2	Root
+AT2G01830	wol-1:wol-2	Root
+AT2G01830	wol-2	Rapidly accumulate anthocyanins due to the loss of root
+AT2G01830	wol-2	Short root
+AT2G01830	wol-2	Viability depends on the ability to develop adventitious root
+AT2G01830	wol-2:cre1-4	Wildtype root
+AT2G01830	wol-3	Aborted vascular system containing few protoxylem cells in the primary root. Normal adventitious root
+AT2G01830	wol-3	Addition of IAA results in the formation of laterals from the primary root as is the case for wildtype. Both the laterals and primary root
+AT2G01830	wol-3	Adventitious root
+AT2G01830	wol-3	Does not produce lateral roots from the primary root. However, 10 days after germination, lateral roots are formed at the upper part of the hypocotyl rather than at the root
+AT2G01830	wol-3	Normal vascular system in adventitious roots, although the hypocotyl and primary root
+AT2G01830	wol-3	Reduction in primary root
+AT2G01940	sgr5-1	Inflorescence stems of mutant plants showed abnormal gravitropic response, while gravitropism in hypocotyls and root
+AT2G01940	sgr5-3	Inflorescence stems of mutant plants showed abnormal gravitropic response, while gravitropism in hypocotyls and root
+AT2G02220	pskr1-1	When grown on B5 agar, the mutant seedlings were indistinguishable from wildtype, albeit with a slight reduction in root
+AT2G02950	pks1-1	No obvious root
+AT2G03680	CS6546	Defective in directional cell elongation processes; abnormal cortical microtubule function; exhibits right-handed helical growth in roots and etiolated hypocotyls; epidermal cell files of roots are twisted to form right-handed helices; on vertically oriented hard agar plates, roots grow to the right when viewed from above the agar plates; this skewed root
+AT2G03680	CS6547	Defective in directional cell elongation processes; abnormal cortical microtubule function; exhibits right-handed helical growth in roots and etiolated hypocotyls; epidermal cell files of roots are twisted to form right-handed helices; on vertically oriented hard agar plates, roots grow to the right when viewed from above the agar plates; this skewed root
+AT2G03680	spr1-6	Mutant plants exhibit altered patterns of root and organ growth as a result of defective anisotropic cell expansion. Roots, etiolated hypocotyls, and leaf petioles exhibit right-handed axial twisting, and root growth on inclined agar media is strongly right skewed. Cortical microtubules reoriented. The touch-dependent helical growth of root
+AT2G11810	mgd2 mgd3	Under Pi starved conditions, reduced DGDG content is observed, the proportion of phosphatidylethanolamine and phosphatidylcholine increased approximately two-fold in shoot and large differences in fatty acid compositions of galactolipids are seen in shoots and particularly roots. Under these conditions, the fresh weight of shoots and root
+AT2G11810	mgd3-1	Under Pi starved conditions, reduced DGDG content is observed, the proportion of phosphatidylethanolamine and phosphatidylcholine increased approximately two-fold in shoot and large differences in fatty acid compositions of galactolipids are seen in shoots and particularly roots. Under these conditions, the fresh weight of shoots and root
+AT2G15290	cia5-3	Roots were smaller than in wild-type plants.  However, no significant phenotype in root
+AT2G15290	pic1-2	Roots were smaller than in wild-type plants.  However, no significant phenotype in root
+AT2G17420	ntra ntrb rml1	ntra ntrb rml1 plants do not show any shoot and root
+AT2G18470	SALK_034666	Mutant plants showed decreased  sensitivity to ABA during root
+AT2G19560	eer5-1	eer5-1 mutant hypocotyls show hypersensitivity to ethylene, but the hypocotyls grow similarly to wild type hypocotyls when etyhlene signaling is blocked using silver nitrate. eer5-1 mutant roots are shorter than wild-type roots when neither are subjected to ethylene treatment, but eer5-1 root
+AT2G20000	hbt_2311	The roots in mutants was more than ten-fold shorter in length than the root
+AT2G20000	hbt_5721	The roots in mutants was more than ten-fold shorter in length than the root
+AT2G20000	hbt_5859	The roots in mutants was more than ten-fold shorter in length than the root
+AT2G20000	hbt_e65	Mutant plants have residual root meristem activity (weak allele). The root length in mutants was less than half of the root
+AT2G20190	clasp-1	Significant dwarfing at all stages of development compared with wild type.  Cell expansion in leaves, root
+AT2G20890	thf1-1	thf1-1 Root
+AT2G21170	pdtpi	This mutant is severely stunted in growth. The seeds germinate at a rate comparable to wild type seeds but they begin to show aberrant phenotypes 3 to 4 days post-germination. Their cotyledons are paler and their primary root
+AT2G21790	cls8-1	Homozygous cls8-1 plants had crinkled leaves that showed slight yellowing at 4C  (also apparent under normal growth conditions)  Germination and cotyledon development are indistinguishable from wild type (Columbia), however the first developing true leaves appear bleached. Subsequent leaves emerge curled and ?ruffled?, with bleached edges. The rosette leaves expand some become crinkled and show patches of white or pits on the surface. There is often a degree of asymmetry along the axis of the main vein, with one half of the leaf failing to fully expand. The bleaching is localized to the petiole and the base of the leaf, and extends along the edges of the leaf. As they continue to expand, the leaves become greener, although the crinkling remains. Following bolting, the  cauline leaves show similar characteristics to rosette leaves.  Flowers produced by cls8-1 plants can be asymmetrical and the petals crinkled in appearance. Siliques grow  to a normal size, but are slightly pale in colour with patches of white, and exhibit ?pits? like those present on the leaves.  Root
+AT2G22125	pom2-1	Callus-induced root
+AT2G24270	np-gapdh	Delay in growth when grown under normal conditions. No significant morphological differences in leaves, root
+AT2G24490	ror1-1 ros1-1	Increased sensitivity to DNA damage,decreased gene silencing as measured by expression of reporter genes, small plants, decreased trichome number, early flowering in long days,decreased cell division, short root
+AT2G24790	col3	Mutant plants have longer hypocotyls in red  light and in short days. Unlike constans, the col3 mutant flowers early and shows a reduced number of lateral branches in  short days. The mutant also exhibits reduced formation of lateral root
+AT2G25180	CS6978	Mutant root
+AT2G25180	ahk3-3 arr12-2	The root
+AT2G25180	arr1-3 arr10-5 arr12-1	severe primary root abnormalities; premature termination of primary root
+AT2G25180	arr1-4 arr12-2	The development and size of the double mutant root
+AT2G25180	arr12-2	Mutant root
+AT2G25490	ebf1-1 ebf2-1	The mutant shows dwarfed growth, supernumerary epinastically curled leaves, early senescence, and abnormal flowers with the gynoecium protruding from the unopened floral buds. However, the phenotypes seen in double mutant plants are more severe than those seen in ctr1. This becomes apparent at about two weeks after germination, except for the reduced root
+AT2G25490	ebf1-1 ebf2-1	When germinated in the dark, the mutant display a ctr1-like phenotype (short hypocotyls, short root
+AT2G25490	ebf1-1 ebf2-1	When grown in the light, the double mutants display slightly longer hypocotyls, curled unexpanded cotyledons, and short and thicker roots with ectopic root
+AT2G25490	ebf1-2 ebf2-1	ctr1-like phenotype (short hypocotyls, short root
+AT2G25490	ebf1-3 ebf2-3 eil1-3	Modest rescue of the ebf1-3 ebf2-3 phenotype. Seedlings continue grow and develop at a slow pace after germination. Cotyledons partially expanded and turned pale green. Stunted root densely covered with root
+AT2G25680	CS859718	molybdate concentrations in shoot and root were reduced to 10% and 20%, respectively, of that in the wild type. Shoot and root
+AT2G25680	SALK_069683	molybdate concentrations in shoot and root were reduced to 20% and 25%, respectively, of that in the wild type. Shoot and root
+AT2G26300	CS3910	Reduced cell division  throughout development; increase in cell expansion compensates the reduction in cell division; light-grown plants exhibit a rotundifolia-like leaf shape (round leaves); dark-grown seedlings have short hypocotyls (because of a reduced number of elongated cells) and open hooks typical of light-irradiated seedlings; root
+AT2G26300	CS3911	Reduced cell division  throughout development; increase in cell expansion compensates the reduction in cell division; light-grown plants exhibit a rotundifolia-like leaf shape (round leaves); dark-grown seedlings have short hypocotyls (because of a reduced number of elongated cells) and open hooks typical of light-irradiated seedlings; root
+AT2G27050	ebf1-3 ebf2-3 eil1-3	Modest rescue of the ebf1-3 ebf2-3 phenotype. Seedlings continue grow and develop at a slow pace after germination. Cotyledons partially expanded and turned pale green. Stunted root densely covered with root
+AT2G27228	SALK_079402 homozygous	Reduced root vascular population.  Root
+AT2G27230	SALK_079402 homozygous	Reduced root vascular population.  Root
+AT2G27230	lhw-1	Reduced root vascular population.  Root
+AT2G27230	lhw-2	Reduced root vascular population.  Root
+AT2G27230	lhw-3	Reduced root vascular population.  Root
+AT2G27230	lhw-4	Reduced root vascular population.  Root
+AT2G27300	CS106660	Reduced growth of lateral root
+AT2G28160	fit1-1	Seedlings are chlorotic,  consistent with iron starvation, are smaller than their wildtype  counterparts, and die 2 to 3 weeks post-germination.  Watering with supplemental iron overcomes lethality.  Root
+AT2G29130	SALK_025690C	reduced root
+AT2G30250	SAIL_529B11	WT phenotype.  Root bending and root
+AT2G30250	wrky25-1; wrky33-1	Double mutant root
+AT2G30330	blos1 rna1	Longer primary roots and increased number of lateral root
+AT2G30410	kis-T1	No cell division defects are found in the root
+AT2G30410	kis-T1	Root
+AT2G32410	AXL/axl-1 axr1-12	Homozygous axr1-12 plants that are heterozygous for axl-1 display severe growth defects. These seedlings developed short, slow growing roots compared with wild-type root
+AT2G32410	AXL/axl-1 axr1-12	The columella of AXL/axl-1 axr1-12/axr1-12 root tips is highly disorganized during early seedling root growth, and is completely disrupted at the time when root
+AT2G32700	luh-1	Reduced germination (80% of normal), slow initial growth, short root
+AT2G32950	cop1-6	Root
+AT2G33880	stip-1	When grown in the absence of sugars plants exhibit growth arrest after germination. Seedling lethal. Shoots exhibit reduced sensitivity to cytokinins but root
+AT2G33880	stip-2	Hypomorphic allele identified as an intragenic supressor of stip-d activation tagged allele. Homozyous plants show about 80% seedling lethality. Other phenotypes include hyponastic cotyledon and reduced root
+AT2G33880	stip-d ahk2-2 ahk3-3 cre1-12	Small SAM and limited root
+AT2G35600	SALK_038885	No visible root
+AT2G36120	dot1-1	dot1-1 mutants display an open-class leaf and cotyledon venation patterning defect with low penetrance. Post-genital fusions of aerial organs also occur in dot1-1 mutants, and they produce cup-shaped leaves with a reduced number of trichomes. Normal epidermal cell wall formation is disrupted at the site of the organ fusions. These mutants have reduced water permeability compared to wild type plants, but they have normal levels of fertility and normal patterns of root
+AT2G36450	hrd-D	hrd-D mutants produce elevated levels of the HRD transcript. Moreover, the expression domain of HRD expands from inflorescence tissue into vegetative tissue in the hrd-D mutants. The mutants have smaller, thicker green leaves with extra palisade and spongy mesophyll cell layers. Their root network is more dense and the root
+AT2G36490	CS66099	When three-week-old seedlings were treated with the cytosine methylation inhibitor 5-aza-2'-deoxycytine (5Aza-dC), newly grown root
+AT2G36490	ror1-1 ros1-1	Increased sensitivity to DNA damage,decreased gene silencing as measured by expression of reporter genes, small plants, decreased trichome number, early flowering in long days,decreased cell division, short root
+AT2G38120	CS3074	Root
+AT2G38120	CS8040	auxin resistant; narrow, irregular rosette leaves, slightly curled around leaf axis; roots elongate on auxin-containing medium; defective root gravitropism; reduced number of lateral root
+AT2G38120	aux1-100	Root
+AT2G38120	aux1-102	Root
+AT2G38120	aux1-103	Root
+AT2G38120	aux1-104	Root
+AT2G38120	aux1-105	Root
+AT2G38120	aux1-106	Root
+AT2G38120	aux1-108	Root
+AT2G38120	aux1-109	Root
+AT2G38120	aux1-111	Root
+AT2G38120	aux1-112	Root
+AT2G38120	aux1-113	Partial root
+AT2G38120	aux1-114	Partial root
+AT2G38120	aux1-115	Root
+AT2G38120	aux1-116	Partial root
+AT2G38120	aux1-117	Root
+AT2G38120	aux1-118	Root
+AT2G38120	aux1-120	Root
+AT2G38120	aux1-21	Root
+AT2G38120	aux1-22	Root
+AT2G38120	axr4-1 aux1-7	auxin resistant; narrow, irregular rosette leaves, slightly curled around leaf axis; roots elongate on auxin-containing medium; defective root gravitropism; reduced number of lateral root
+AT2G38120	wav5-33	Root
+AT2G38290	amt2;1-1	This mutant was used to construct a quadruple mutant: amt1;1-1, amt1;2-1, amt1;3-1, amt2;1-1. When this qko (quadruple knockout) was compared with a triple knockout with WT AMT2;1, it provided little evidence for a role of AMT2;1 in ammonium uptake in Arabidopsis root
+AT2G38470	SALK_006603	Homozygotes have a WT phenotype. Root bending and root elongation assays under osmotic and ABA treatments showed no significant difference compared to WT. However, primary root
+AT2G38470	wrky25-1; wrky33-1	Double mutant root
+AT2G39450	mtp11	The mutant was visually indistinguishable from wild type when grown in potting mix. However, when grown on nutrient agar with a basal supply of Mn2+, the mutant accumulated more Mn2+ in shoots and root
+AT2G39800	p5cs1-1	p5cs1-1 mutants accumulate less proline in response to salt stress than wild-type seedlings. Their root
+AT2G39800	p5cs1-4	Decreased root
+AT2G39800	p5cs1-4	p5cs1-4 mutants accumulate less proline in response to salt stress than wild-type seedlings. Their root
+AT2G39940	coi1-1	Seedlings have green leaves and well-developed  root
+AT2G39940	coi1-15	Seedlings have green leaves and well-developed  root
+AT2G39940	coi1-18	Seedlings have green leaves and well-developed  root
+AT2G40220	CS3837	Mutant root growth was already somewhat reduced compared to WT plants under normal growth conditions but was significantly less sensitive to inhibition by 25 mM trehalose. Root length was reduced only by 46% compared to 90% in WT plants (Fig. 1B). The  germination rates on trehalose were identical to those on medium without trehalose indicating that the smaller root
+AT2G40220	CS3837	The inhibition of root
+AT2G40890	cyp98A3	background Wassilewskija hypocotyls with shortened length and increased diameter, roots had a swollen aspect with increased initiation from the crown and showed reduced growth and gravitropism   in soil plant maintained the dwarfed phenotype with a rosette never exceeding 1 to 1.5 cm in diameter, developed a bushy miniature rosette of round leaves, growth of cyp98A3 plants was arrested latest at the onset of primary stem development (2 weeks later than wild-type), showed darker leaf coloration , severe alteration of lignin content and composition - mainly H units (95% to 3.5% in wild-type), ectopic lignification in root
+AT2G40950	zip17	zip17 mutants exhibit a greater inhibition of primary root
+AT2G41660	miz1	Mutant roots are defective in hydrotropism, and have slightly reduced phototropism and modified wavy growth response. Has normal gravitropism and root
+AT2G42430	lbd16-1	Mutant plants appeared very similar to wild-type plants at both seedling and adult stages. Root
+AT2G42430	lbd16-1	The number of lateral roots was reduced slightly in 7-d old  mutant seedlings compared to the wild type. Although exogenous auxin induced lateral root formation in mutant as in wild-type seedlings, there were fewer lateral root
+AT2G43790	mpk6-1	Defects in root development. Short roots and sometimes even no roots.Ectopic cell divisions in the root
+AT2G43790	mpk6-2	Defects in root development. Short roots and sometimes even no roots.Ectopic cell divisions in the root
+AT2G43790	mpk6-3	Defects in root development. Short roots and sometimes even no roots.Ectopic cell divisions in the root
+AT2G44900	arabidillo-1/-2	Mutant plants grown on vertical plates had fewer lateral roots were developed than wild type or either single mutant, despite having similar primary root lengths to wild type. Significant decrease in number of lateral root primordia was found in double mutant roots, with no differences in later stages of lateral root
+AT2G44950	hub1-1	The mutant primary roots grew much more slowly than those of the wild type. No differences between mutant and WT were seen regarding cellular organization or cell wall formation in the root apical meristem. However, a clear reduction in meristem size was detected. The root
+AT2G44950	hub1-3	Mutant growth was defective compared with  that of wild type. The mutants were reduced in size and had pale-green laminas with an  irregular blade surface and thinner inflorescence stems, but root
+AT2G44950	hub1-4	Mutant growth was defective compared with  that of wild type. The mutants were reduced in size and had pale-green laminas with an  irregular blade surface and thinner inflorescence stems, but root
+AT2G45770	frd4-1	In contrast to chloroplasts in the leaves, wild-type and mutant root plastids do not differ significantly in appearance. The root
+AT2G46020	atbrm-1	Smaller than wt plants, slow growing with downwards curled leaves.  Flowers fail to open at maturity and exhibit organ fusions.  Root
+AT2G46020	brm-1	Completely sterile with homeotic transformations in the second and thried floral whorls.  Slow growth, delayed development and a dramatic reduction in plant size. Rosette and cauline leaves are small and curled downwards as well as coiled in the proximodistal axes, both under short and long day conditions.  Root
+AT2G46020	brm-2	Completely sterile with homeotic transformations in the second and thried floral whorls.  Slow growth, delayed development and a dramatic reduction in plant size. Rosette and cauline leaves are small and curled downwards as well as coiled in the proximodistal axes, both under short and long day conditions.  Root
+AT2G46240	SALK_009534	Mutant plants exhibited earlier flowering and shorter vegetative and reproductive phases, producing more branched root
+AT2G46240	SALK_058290	Mutant plants exhibited earlier flowering and shorter vegetative and reproductive phases, producing more branched root
+AT2G46370	CS8072	JA-Ile levels are seven-fold lower in the jar1-1 mutant compared to wild type plants. The levels of JA, JA-Val, and JA-Leu are similar in the wild-type and mutant backgrounds, whereas the level of JA-Phe and JA-ACC are higher in the mutant. Although this mutant is moderately insensitive to MeJA in root
+AT2G46370	CS8072	The jar1-1 mutant shows moderate insensitivity to MeJA in root
+AT2G46370	jar1-11	The mutant has reduced sensitivity to methyl jasmonate in root
+AT2G46370	jar1-8	The jar1-8 mutant shows moderate insensitivity to MeJA in root
+AT2G47000	mdr4-1	Although mutant seedlings display normal acropetal auxin transport in the root, basipetal auxin transport is reduced by about 50%. Root
+AT2G47000	mdr4-1	mdr4-1 mutants display normal root architecture and have wild type rates of lateral root
+AT2G47000	mdr4-2	Although mutant seedlings display normal acropetal auxin transport in the root, basipetal auxin transport is reduced by about 50%. Root
+AT2G47000	mdr4-2	mdr4-2 mutants display normal root architecture and have wild type rates of lateral root
+AT2G47000	pgp4-1	The root lengths of 10-d pgp4 seedlings were 30% shorter than those of the wild type, and the number of lateral roots was also significantly reduced under moderate light levels (100 to 120 mmolm2s1) using sucrose concentrations of 0.5 to 1%. Under high light or on sucrose concentrations >1.5%, the root lengths and number of lateral roots observed were greater than or equal to those of the wild type. No obvious morphological differences between pgp4 and wild-type plants were observed in the aerial parts of seedlings and adult plants. Seedlings exhibited reductions in the rate of root
+AT2G47000	pgp4-1	pgp4-1 mutants have 25% longer root
+AT2G47000	pgp4-3	The root lengths of 10-d pgp4 seedlings were 30% shorter than those of the wild type, and the number of lateral roots was also significantly reduced under moderate light levels (100 to 120 mmolm2s1) using sucrose concentrations of 0.5 to 1%. Under high light or on sucrose concentrations >1.5%, the root lengths and number of lateral roots observed were greater than or equal to those of the wild type. No obvious morphological differences between pgp4 and wild-type plants were observed in the aerial parts of seedlings and adult plants. Seedlings exhibited reductions in the rate of root
+AT2G47000	pgp4-4	The root lengths of 10-d pgp4 seedlings were 30% shorter than those of the wild type, and the number of lateral roots was also significantly reduced under moderate light levels (100 to 120 mmolm2s1) using sucrose concentrations of 0.5 to 1%. Under high light or on sucrose concentrations >1.5%, the root lengths and number of lateral roots observed were greater than or equal to those of the wild type. No obvious morphological differences between pgp4 and wild-type plants were observed in the aerial parts of seedlings and adult plants. Seedlings exhibited reductions in the rate of root
+AT2G47270	SALK_115536	longer root
+AT2G47750	gh3.9-1	gh3.9-1 mutants had greater primary root length, increased sensitivity to indole-3-acetic acid (IAA)-mediated root
+AT3G01650	rglg1 rglg2	Auxin (IAA) concentration was almost twofold lower in root
+AT3G01650	rglg1 rglg2	Roots of wild-type and mutant plants were similar in spite of a moderate (14%) reduction in the main root
+AT3G02680	atnbs1-1	Significantly smaller when grown in the presence of methyl methanosulfonate (MMS) with root
+AT3G05040	CS24280	leaves up-rolled, precocious expression of adult traits, reduced leaf number, small root
+AT3G05120	gid1a-1	Only slight differences between mutant and wild type plants with regard to rosette radius and root
+AT3G05120	gid1a-1 gid1b-1	Only slight differences between mutant and wild type plants with regard to rosette radius and root
+AT3G05120	gid1a-1 gid1b-1 gid1c-1	Dramatic reduction in rosette radius and root
+AT3G05120	gid1a-1 gid1c-1	Only slight differences between mutant and wild type plants with regard to rosette radius and root
+AT3G05630	SALK_119084	Less sensitive to auxin. Reduced root
+AT3G05630	pldz2	mutant is defective in the hydrolysis of phospholipids and has a reduced capacity to accumulate galactolipids under limiting Pi conditions. Morphological analysis of the pldz2 root system shows a premature change in root
+AT3G05630	pldzeta1 pldzeta2	Under limited phosphate, primary root elongation is retarded and lateral root
+AT3G06030	anp2 anp3	Delayed growth,short roots, multiply branched root hairs.Radially expanded root
+AT3G06810	SALK_004657	Roots moderately resistant to elongation inhibition by 2,4-DB (2,4-Dichlorophenoxybutyric acid) but remained sensitive to inhibition by 2,4-D (2,4-Dichlorophenoxyacetic acid). Fewer lateral root
+AT3G06810	SALK_033467	Roots moderately resistant to elongation inhibition by 2,4-DB (2,4-Dichlorophenoxybutyric acid) but remained sensitive to inhibition by 2,4-D (2,4-Dichlorophenoxyacetic acid). Fewer lateral root
+AT3G06810	ibr3-1	Roots moderately resistant to elongation inhibition by 2,4-DB (2,4-Dichlorophenoxybutyric acid) but remained sensitive to inhibition by 2,4-D (2,4-Dichlorophenoxyacetic acid). Fewer lateral root
+AT3G06810	ibr3-11	Roots moderately resistant to elongation inhibition by 2,4-DB (2,4-Dichlorophenoxybutyric acid) but remained sensitive to inhibition by 2,4-D (2,4-Dichlorophenoxyacetic acid). Fewer lateral root
+AT3G06810	ibr3-2	Roots moderately resistant to elongation inhibition by 2,4-DB (2,4-Dichlorophenoxybutyric acid) but remained sensitive to inhibition by 2,4-D (2,4-Dichlorophenoxyacetic acid). Fewer lateral root
+AT3G07780	obe1-1 obe2-1	Premature termination and loss of the shoot apical meristem. Failure to establish or maintain the root
+AT3G08040	CS6584	defective in iron translocation; chlorotic plants; expression of iron deficiency responses under conditions of iron sufficiency; overaccumulation of iron and other metals (plants accumulate approximately two-fold excess iron, four-fold excess manganesse and two-fold excess zinc in their shoots); detached roots are capable of repressing iron uptake responses when cultured under iron-sufficient conditions; when shoots are appropriately supplied with iron, they regreen and the plants are capable of correctly regulating root iron uptake responses; isolated protoplasts have lower iron levels than those from wild type plants; plants accumulate abnormal levels of ferric iron in their root vasculature, FRD3 is expressed in the pericycle and other vascular cylinder cells in the mature portion of the root
+AT3G08040	CS6585	defective in iron translocation; chlorotic plants; expression of iron deficiency responses under conditions of iron sufficiency; overaccumulation of iron and other metals (plants accumulate approximately two-fold excess iron, four-fold excess manganesse and two-fold excess zinc in their shoots); detached roots are capable of repressing iron uptake responses when cultured under iron-sufficient conditions; when shoots are appropriately supplied with iron, they regreen and the plants are capable of correctly regulating root iron uptake responses; isolated protoplasts have lower iron levels than those from wild type plants; plants accumulate abnormal levels of ferric iron in their root vasculature, FRD3 is expressed in the pericycle and other vascular cylinder cells in the mature portion of the root
+AT3G08710	trx h9	Roots and leaves of  the homozygous mutants were significantly shorter and smaller  than wild-type. Root tips of 7-day-old mutant seedlings  grown on MS medium with 1% sucrose had a shortened apical  meristem and, cells were more compact, in keeping with noticeably  shorter root
+AT3G09780	acr4-2/ccr1-3	Increased number of lateral root
+AT3G09840	cdc48-1	Seedling lethal.Mutants have disorganized root
+AT3G09920	pip5k9-d	Concentration of sucrose in the mutant root
+AT3G09920	pip5k9-d	Shortened primary root
+AT3G09920	pip5k9-d	Whereas root
+AT3G10870	SALK_092550c	mes17-1 mutant roots are less responsive to MeIAA than wild type roots, but they show a normal root growth inhibition in response to IAA, and also grow like wild type root
+AT3G10870	mes17-2	mes17-2 mutant roots are less responsive to MeIAA than wild type roots, but they show a normal root growth inhibition in response to IAA, and also grow like wild type root
+AT3G11430	SALK_018117	The mutant has a 50% reduction in aliphatic suberin in young root
+AT3G11430	SALK_142456	The mutant has a 50% reduction in aliphatic suberin in young root
+AT3G13300	VCS:vcs1/VCS:vcs7	The transheterozygote was indistinguishable from vcs-1; it produced green organs, a longer root
+AT3G13300	vcs-6	Null mutants of DCP1, DCP2, and VCS accumulate capped mRNAs with a reduced degradation rate. The homozygous progeny of these mutants also share a similar lethal phenotype at the seedling cotyledon stage, with disorganized veins, swollen root
+AT3G13300	vcs-7	Mutants produced cotyledons that expanded slowly and accumulated anthocyanins around their margins, hypocotyls that were short and slightly swollen, and root
+AT3G13360	wip1-1 wip2-1 wip3-1	Both endogenous RanGAP1 and RanGAP1-GFP were absent from the nuclear envelope in root
+AT3G13360	wip1-1 wip2-1 wip3-1	Mutant plants had no observable defect in growth or development under standard laboratory conditions and no change in auxin sensitivity was observed in a standard root
+AT3G13870	wvd6	Reduced rates of root elongation.  Root hairs are significantly shorter than wild-type root hairs.  Root
+AT3G14000	brxl2	No visible root
+AT3G14370	wag1-1/wag2-1	Morphologically similar to wild type. When seedlings were grown on vertical plates, root
+AT3G14370	wag1-2/wag2-1	Morphologically similar to double mutant wag1-1/wag2-1. When seedlings were grown on vertical plates, root exhibited pronounced wavy pattern. Gravitropism was not affected in mutant plants. Double mutant plants were more resistant to inhibition of root
+AT3G14370	wag2-1	Morphologically similar to wild type. When seedlings were grown on vertical plates, root
+AT3G16150	CS67896	Increased sensitivity to delay in root hair emergence in response to exogenous asparagine. Increased accumulation of asparagine in root
+AT3G16150	CS67896	increased sensitivity to inhibition of root
+AT3G16150	SALK_082112	increased sensitivity to inhibition of root
+AT3G16150	WiscDsLox382A10	increased sensitivity to inhibition of root
+AT3G16785	pldzeta1 pldzeta2	Under limited phosphate, primary root elongation is retarded and lateral root
+AT3G16857	ahk3-3 arr1-4	The root
+AT3G16857	arr1-3 arr10-5 arr12-1	severe primary root abnormalities; premature termination of primary root
+AT3G16857	arr1-4	The root
+AT3G16857	arr1-4 arr12-2	The development and size of the double mutant root
+AT3G17360	pok1-1/pok2-1	At seedling stage pok1/pok2 double mutants differ from wild-type by having smaller cotyledons as well as shorter, wider roots and hypocotyls. Adult plants exhibit a dwarfed stature, but all organs are present, although miniaturized. Plants are fertile but produce reduced numbers of seeds. Microscopic observation revealed highly disordered root meristem cell patterns, with most walls lacking parallel or perpendicular alignment to the longitudinal axis of the root
+AT3G18780	act2-1	Mutants have abnormal root
+AT3G18780	act2-1/act7-4	Plants are dwarf and reach only 15% of the height of wild type. Roots lack root
+AT3G18780	act2-1/act8-2	Lacks root hairs.Root
+AT3G19050	pok1-1/pok2-1	At seedling stage pok1/pok2 double mutants differ from wild-type by having smaller cotyledons as well as shorter, wider roots and hypocotyls. Adult plants exhibit a dwarfed stature, but all organs are present, although miniaturized. Plants are fertile but produce reduced numbers of seeds. Microscopic observation revealed highly disordered root meristem cell patterns, with most walls lacking parallel or perpendicular alignment to the longitudinal axis of the root
+AT3G20630	per1	per1 plants show normal root hair development under control conditions but displayed an inhibited root
+AT3G20780	rhl3-1	Complete absence of root
+AT3G20840	plt1-1	The mutation causes extra cells in the columella root
+AT3G20840	plt1-2	The mutation causes extra cells in the columella root
+AT3G20840	plt3-1/plt2-2/plt1-4	Rootless.Embryonic root differentiates 3 days after germination. Adventitious root
+AT3G22200	CS6385	Hypersensitivity to NaCl and LiCl but not to mannitol in root growth assays. Under NaCl stress, pop2-1 mutant did not overaccumulate Na+ and Cl- but showed a slight decrease in K+ content. Additionally, mutant root
+AT3G22200	CS6385	Pollen tube growth defects in vivo. Primary root
+AT3G22200	CS860071	Primary root
+AT3G22400	SALK_044826	developed more emergent (stage VIII) and lateral roots at 10 d. has a moderate increase in the length of the primary root
+AT3G22650	ceg	increased lateral root
+AT3G23050	CS3077	Stronger inhibition of root
+AT3G23490	cyn-1	cyn-1 seedlings are more sensitive to cyanate stress than wild type seedlings based on root
+AT3G23490	cyn-7	cyn-7 seedlings are more sensitive to cyanate stress than wild type seedlings based on root
+AT3G23630	atipt1 atipt 3 atipt 5 atipt7	External application of <i>trans</i>-zeatin partially rescues the growth of aerial parts of the mutant, and reduced its lateral root
+AT3G23630	atipt1 atipt 3 atipt 5 atipt7	Reduced cambial activity and reduced secondary growth in both shoots and root
+AT3G23630	atipt1 atipt 3 atipt 5 atipt7	Relative to wild type, both the number of lateral roots (longer than 1cm) and the total length of the lateral root
+AT3G23630	atipt3 atipt 5 atipt 7	Enhanced root growth rate resulting in longer root
+AT3G23630	atipt3 atipt 5 atipt 7	Mutant root
+AT3G23630	atipt3 atipt 5 atipt 7	Relative to wild type, both the number of lateral roots (longer than 1cm) and the total length of the lateral root
+AT3G25520	oli5-1	Shorter primary root
+AT3G25710	SALK_013517C	Mutants showed elevated expression of PPCK under Pi starvation. Under high levels of Pi, root
+AT3G26090	CS6537	Altered cell proliferation; increased cell elongation in hypocotyls in darkness (longer hypocotyls than wild type); increased cell production in roots grown in light (longer root
+AT3G26090	CS6538	Altered cell proliferation; increased cell elongation in hypocotyls in darkness (longer hypocotyls than wild type); increased cell production in roots grown in light (longer root
+AT3G27060	tso2-1	At the seedling stage, tso2-1 mutants were similar to the wild type, with normal root
+AT3G27580	d6pkl3-2/d6pkl2-2/d6plk1-1/d6pk-1	Quadruple mutant displays defects in many aspects of development. Defects include:abnormal leaves, leaves are narrow and twisted; reduced number of axillary shoots and reduced fertility. In addition, mutants also display single or fused cotyldons, reduced number of lateral root
+AT3G27920	aba2-2	Mutant showed a similar sensitivity to 25 mM trehalose as wild type (inhibition of root
+AT3G27920	sos3-1 siz1-1	Decrease of macronutrients concentration in the MS salt formulation to 1/20X results in a substantial reduction in primary root
+AT3G27920	sos3-1 siz1-1	Mutant grown in greenhouse or growth chamber exhibits reduced shoot and root
+AT3G27920	sos3-1 siz1-1	Substantially more pronounced prototypical Pi starvation root architecture responses than sos3-1 or wild-type seedlings. On Pi-limited medium, mutant seedlings exhibit an inhibition of primary root growth, an increase of lateral root development and length, and higher root
+AT3G28860	mdr1-1	Lateral roots initiate and emerge at normal rates in mdr1-1 mutants, but they elongate ~50% more slowly than wild type lateral roots, and have a 60% reduction in acropetal auxin transport. Primary root
+AT3G28860	mdr1-1	Mutant mdr1-1 seedlings show an 80% reduction in acropetal auxin transport, but have normal levels of basipetal transport in their primary roots. Although gravitropism occurs normally in these mutants, they have a pronounced increase in root
+AT3G28860	mdr1-2	Lateral roots initiate and emerge at normal rates in mdr1-2 mutants, but they elongate ~50% more slowly than wild type lateral roots, and have a 60% reduction in acropetal auxin transport. Primary root
+AT3G28860	mdr1-2	Mutant mdr1-2 seedlings show an 80% reduction in acropetal auxin transport, but have normal levels of basipetal transport in their primary roots. Although gravitropism occurs normally in these mutants, they have a pronounced increase in root
+AT3G30775	pdh1-2	Decreased root
+AT3G42170	daysleeper	Seedlings homozygous for the T-DNA insertion completely lacked expression of DAYSLEEPER. Mutant seedlings grew very slowly, and showed no expansion of the cotyledons or development of normal leaves or floral organs. The root remained short and had an excess of abnormal root hairs. The main and lateral root
+AT3G43190	sus1 sus4	The activity of SUS was reduced to 10% of wild-type levels in leaves of the mutant, and was undetectable (reduced to less than 10% of wild-type levels) in roots. The activity of invertase was unaffected in root
+AT3G43190	sus1 sus4	The double mutant line was much more  severely affected by flooding. After the 4 days of flooding, root weight had increased by only 44% (compared to 72% for wild type), and there was not statistically significant gain in root weight in the 3 days following flooding. At the end of the 7-day period, the flooding treatment had reduced the gain in root
+AT3G43190	sus4	The amounts of glucose, fructose, sucrose, cellulose (root
+AT3G47450	CS6511	Reduced nitric oxide synthase (NOS) production in leaves and root tips; impaired organ growth: yellowish first true leaves, reduced root
+AT3G47690	eb1a-1	When plants are grown on inclined agar plates root
+AT3G50080	vfb1-1/vfb2-1/vfb3-1/vfb4rnai	Defects in lateral root formation, delayed root
+AT3G50500	snrk2.2 snrk2.3	snrk2.2 snrk2.3 was found to be ABA-insensitive in seed germination and early seedling growth  snrk2.2 snrk2.3 seeds showed green cotyledons at 5 d after sowing (non of the wild-type seeds had germinated at this time)  snrk2.2 snrk2.3 had decreased seed dormancy  snrk2.2 snrk2.3 was insensitive to the stimulating effect of low ABA concentration (<1 uM)on root
+AT3G51160	CS6243	Contains less than 2% of wild-type amount of fucose in aerial parts of the plant body. Fucose content in total root
+AT3G51160	CS6243	Mutant grown axenically in the presence of 10 mM L-fucose contain WT amounts of fucose in both root
+AT3G51160	CS6244	Contains less than 2% of wild-type amount of fucose in aerial parts of the plant body. Fucose content in total root
+AT3G51160	CS6244	Mutant grown axenically in the presence of 10 mM L-fucose contain WT amounts of fucose in both root
+AT3G51780	SAIL_144_A10	Mutant plants exhibited earlier flowering and shorter vegetative and reproductive phases, producing more branched root
+AT3G51780	SAIL_418_B09	Mutant plants exhibited earlier flowering and shorter vegetative and reproductive phases, producing more branched root
+AT3G51780	SALK_033845	Mutant plants exhibited earlier flowering and shorter vegetative and reproductive phases, producing more branched root
+AT3G53020	CS11180	Defects in apical-basal gynoecium patterning (similar to ett and mp mutants). Mutant plant gynoecia had shorter ovaries and longer gynophores than the wild type, but the total length of the gynoecium is normal before pollination. After pollination, the gynoecium of failed to elongate, resulting in shorter siliques which contained arrested seeds, resulting in lower fertility. The stv1-1 ovules had shorter integuments than wild-type ones, and in some extreme cases, the gametophyte was protruding from the integuments. Mutant plants had defects in vascular system and embryo organization, which are also associated with auxin signaling. Most cotyledons in mutant plants had abnormal vascular patterns that were asymmetric and/or disconnected. Cotyledons were occasionally fused or single, indicating that stv1-1 is associated with defects in embryo patterning. Growth was retarded in both aerial and underground parts of stv1-1 mutants, resulting in plants that were smaller overall than the wild type. In stv1-1 root
+AT3G53020	stv1-1	Defects in apical-basal gynoecium patterning (similar to ett and mp mutants). Mutant plant gynoecia had shorter ovaries and longer gynophores than the wild type, but the total length of the gynoecium is normal before pollination. After pollination, the gynoecium of failed to elongate, resulting in shorter siliques which contained arrested seeds, resulting in lower fertility. The stv1-1 ovules had shorter integuments than wild-type ones, and in some extreme cases, the gametophyte was protruding from the integuments. Mutant plants had defects in vascular system and embryo organization, which are also associated with auxin signaling. Most cotyledons in mutant plants had abnormal vascular patterns that were asymmetric and/or disconnected. Cotyledons were occasionally fused or single, indicating that stv1-1 is associated with defects in embryo patterning. Growth was retarded in both aerial and underground parts of stv1-1 mutants, resulting in plants that were smaller overall than the wild type. In stv1-1 root
+AT3G53900	upp-1	dramatic growth retardation; pale green to albino; flimsy root
+AT3G54140	CS859493	The ptr1-1 mutant grows normally on soil and on AM medium. Its pollen tubes germinate and elongate normally on germination media and in the presence of 100uM alanyl-ethionine (Ala-Eth), a toxic dipeptide. Root growth of ptr1-1 mutants exceeds wild type root
+AT3G54140	SALK_130803C	The ptr1-2 mutant grows normally on soil and on AM medium. Its pollen tubes germinate and elongate normally on germination media. The tubes can germinate and elongate normally in the presence of 100uM alanyl-ethionine (Ala-Eth), a toxic dipeptide. Root growth of ptr1-2 mutants exceeds wild type root
+AT3G54140	atptr1-2 atptr5-1	The ptr1-2 ptr5-2 double mutant grows normally on soil and on AM medium. Its pollen tubes germinate and elongate normally on germination media. The tubes can germinate normally in the presence of 100uM alanyl-ethionine (Ala-Eth), a toxic dipeptide, but they elongate more than wild type pollen tubes.  Root growth of ptr1-2 ptr5-1 mutants exceeds wild type root
+AT3G55830	SALK_014479	Mutant plants have dramatically reduced growth habit, defects in vascular formation and reduced cell-cell adhesion properties in hypocotyl and cotyledon tissues. Secondary growth is enhanced in epc1 hypocotyl tissues. When germinated on MS agar plates, cotyledon and leaf expansion, primary root elongation and hypocotyl elongation of the mutant seedlings were reduced compared with the wild type. Epidermal cells of hypocotyls and roots exhibited a left-handed spiraled organization which was not present in the wild type. Cotyledons of epc1 were curled at the edges, thicker and more fragile than the wild type. Vascular patterning was disrupted in the epc1 mutants. Callose deposition in the vasculature of epc1 cotyledons was reduced compared to the wild type and the majority of seedlings showed no vascular-specific deposition. However, the majority of epc1 seedlings showed ectopic callose deposition seen as extensive punctate distribution of fluorescent signal throughout the cotyledons, leaves, hypocotyl and root
+AT3G55830	SALK_046781	Mutant plants have dramatically reduced growth habit, defects in vascular formation and reduced cell-cell adhesion properties in hypocotyl and cotyledon tissues. Secondary growth is enhanced in epc1 hypocotyl tissues. When germinated on MS agar plates, cotyledon and leaf expansion, primary root elongation and hypocotyl elongation of the mutant seedlings were reduced compared with the wild type. Epidermal cells of hypocotyls and roots exhibited a left-handed spiraled organization which was not present in the wild type. Cotyledons of epc1 were curled at the edges, thicker and more fragile than the wild type. Vascular patterning was disrupted in the epc1 mutants. Callose deposition in the vasculature of epc1 cotyledons was reduced compared to the wild type and the majority of seedlings showed no vascular-specific deposition. However, the majority of epc1 seedlings showed ectopic callose deposition seen as extensive punctate distribution of fluorescent signal throughout the cotyledons, leaves, hypocotyl and root
+AT3G55830	epc1-WiscDsLOX293-296invM1	Mutant plants have dramatically reduced growth habit, defects in vascular formation and reduced cell-cell adhesion properties in hypocotyl and cotyledon tissues. Secondary growth is enhanced in epc1 hypocotyl tissues. When germinated on MS agar plates, cotyledon and leaf expansion, primary root elongation and hypocotyl elongation of the mutant seedlings were reduced compared with the wild type. Epidermal cells of hypocotyls and roots exhibited a left-handed spiraled organization which was not present in the wild type. Cotyledons of epc1 were curled at the edges, thicker and more fragile than the wild type. Vascular patterning was disrupted in the epc1 mutants. Callose deposition in the vasculature of epc1 cotyledons was reduced compared to the wild type and the majority of seedlings showed no vascular-specific deposition. However, the majority of epc1 seedlings showed ectopic callose deposition seen as extensive punctate distribution of fluorescent signal throughout the cotyledons, leaves, hypocotyl and root
+AT3G59420	acr4-2	Increased number of lateral root
+AT3G59420	acr4-2/ccr1-3	Increased number of lateral root
+AT3G59770	sac9-1	slow growing, small leaves with short petioles, accumulates anthocyanin in the leaves, small and constitutively closed guard cells, shorter primary roots, fewer lateral root
+AT3G59770	sac9-2	slow growing, small leaves with short petioles, accumulates anthocyanin in the leaves, small and constitutively closed guard cells, shorter primary roots, fewer lateral root
+AT3G61650	TUBG1-1/tubg1-1 TUBG2-2/tubg2-2	During early seedling growth, cotyledons were small and distorted, and only two leaf primordia were inittaited at the shoot apex. Dome-shape soot apical meristem was distorted. Root growth was inhibited, and root
+AT3G61890	athb12-1	Decreased sensitivity to ABA in a root
+AT3G62980	CS3798	resistant to auxin inhibition of root elongation; deficient in auxin-regulated growth processes including: reduced lateral root
+AT3G63010	gid1a-1 gid1b-1	Only slight differences between mutant and wild type plants with regard to rosette radius and root
+AT3G63010	gid1a-1 gid1b-1 gid1c-1	Dramatic reduction in rosette radius and root
+AT3G63010	gid1b-1	Only slight differences between mutant and wild type plants with regard to rosette radius and root
+AT3G63010	gid1b-1 gid1c-1	Only slight differences between mutant and wild type plants with regard to rosette radius and root
+AT3G63110	atipt1 atipt 3 atipt 5 atipt7	External application of <i>trans</i>-zeatin partially rescues the growth of aerial parts of the mutant, and reduced its lateral root
+AT3G63110	atipt1 atipt 3 atipt 5 atipt7	Reduced cambial activity and reduced secondary growth in both shoots and root
+AT3G63110	atipt1 atipt 3 atipt 5 atipt7	Relative to wild type, both the number of lateral roots (longer than 1cm) and the total length of the lateral root
+AT3G63110	atipt3 atipt 5 atipt 7	Enhanced root growth rate resulting in longer root
+AT3G63110	atipt3 atipt 5 atipt 7	Mutant root
+AT3G63110	atipt3 atipt 5 atipt 7	Relative to wild type, both the number of lateral roots (longer than 1cm) and the total length of the lateral root
+AT4G00710	SALK_096500C	shorter hypocotyl length when grown in the dark on regular medium or medium containing the BR biosynthetic inhibitor brassinazole (BRZ).  reduced responses to BL in hypocotyl elongation, root
+AT4G01100	CS333468	Homozygotes have shorter roots than WT. Respiration rates are significantly lower than in WT root
+AT4G01370	mpk4	Dwarf, delayed growth, short roots. Defective root hairs that are branched and swollen.Ectopic root
+AT4G02280	sus2 sus3	Activity of SUS was reduced by about one-third in root
+AT4G02280	sus3 (SALK)	The amounts of glucose, fructose, sucrose, cellulose (root
+AT4G02280	sus3 (WISC)	The amounts of glucose, fructose, sucrose, cellulose (root
+AT4G02780	ga1-3 (Col-0)	GA-signaling promoting root
+AT4G05530	ibr1-1	The ibr1 mutants are resistant to the inhibitory effects of indole-3-butyric acid on root elongation, but their root
+AT4G05530	ibr1-2	The ibr1-2 mutants are resistant to the inhibitory effects of intermediate levels of indole-3-butyric acid on root elongation, but their roots show the normal response to indole-3-acetic acid, NAA, and 2.4-D. Their root growth is also resistant to 2,4-DB, a compound that can be processed to produce 2,4-D via beta-oxidation. Lateral root proliferation in response to IBA is also reduced dramatically in ibr1-2 mutants, although they still produce normal numbers of lateral roots in response to NAA. ibr1-2 mutants do not require sucrose for dark-grown hypocotyl elongation suggesting that they do not have a general defect in peroxisomal beta-oxidation. And their root
+AT4G05530	ibr1-4	The ibr1 mutants are resistant to the inhibitory effects of indole-3-butyric acid on root elongation, but their root
+AT4G05530	ibr1-5	The ibr1 mutants are resistant to the inhibitory effects of indole-3-butyric acid on root elongation, but their root
+AT4G05530	ibr1-7	The ibr1 mutants are resistant to the inhibitory effects of indole-3-butyric acid on root elongation, but their root
+AT4G05530	ibr1-8	The ibr1 mutants are resistant to the inhibitory effects of indole-3-butyric acid on root elongation, but their root
+AT4G07400	vfb1-1/vfb2-1/vfb3-1/vfb4rnai	Defects in lateral root formation, delayed root
+AT4G08950	exo-1	Reduced biomass. Plants are smaller due to defects in cell expansion. Root
+AT4G10310	athtk1-3	athtk1-3 mutants have no obvious phenotypic abnormalities when grown in typical greenhouse conditions. But, across a range of different hydroponically-provided sodium concentrations, these mutants accumulate less sodium in their roots than wild type plants and more sodium in their leaves than wild type plants. Accordingly, the roots of these mutants are less sensitive to salt in root
+AT4G10350	brn1-1; brn2-1	Columella root
+AT4G10350	smb-3; brn1-1; brn2-1	Root cap cells appear as a mass lacking uniform morphology. Cells can be highly elongated and twisted.   Cells fail to stop elongation and to  adopt the rigid, rectangular morphology of COL cells.   When compared with smb-3, the triple mutant has thesame number of complete LRC layers, and the appearance of the cells in those layers closely resembles that in smb-3. However, partial remains of older LRC layers remain attached to the meristem in the triple mutant, giving it a messy appearance. Remains of old LRC cap layers can be  found still attached to the root
+AT4G10380	SALK_122287C	Inhibition root
+AT4G14550	slr-1	Absence of lateral roots. Defective response to auxin stimulus in the root
+AT4G14850	loi1-1	loi1-1 mutants are less sensitive to inhibitors of the MEP and MVA pathways of isoprenoid biosynthesis than wild type plants. Lovastatin (an inhibitor of HMG CoA reductase and the MVA pathway), normally inhibits root, growth alters root tip morphology, halts lateral root
+AT4G16760	acx1-3	Plants display decreased sensitivity to the inhibitory effect of indole-3-butyric acid (IBA) on root elongation, while remaining sensitive to inhibitory concentrations of indole-3-acetic acid.  They maintain their ability to initiate lateral root
+AT4G17615	cbl1 cbl9	growth of the cbl1  cbl9 double mutant was significantly more inhibited than the  growth of wild-type root
+AT4G18750	dot4-1	dot4-1 mutants have an aberrant midgap leaf and cotyledon venation pattern and their roots are slightly shorter than wild type root
+AT4G18780	CS18	With the exception of the collapsed xylem phenotype, both the organization of the vascular tissue and the organization of the entire stem of the three irx mutants are identical to that of the wild type. In addition to stems, the collapsed xylem phenotype of irx plants has been observed in mature hypocotyls and in the primary root
+AT4G24400	cipk8-1	Increased primary root
+AT4G24670	SALK_021258C	This mutant does not have any obvious morphological defects and it responds normally to ACC and IAA in hypocotyl and root
+AT4G24670	wei8-1 tar1-1 tar2-1	These triple mutants do not make a primary root
+AT4G24670	wei8-1 tar2-1	The roots of this mutant show almost no sensitivity to the ethylene precursor ACC, but sensitivity is largely restored by the addition of low levels of IAA (but not tryptophan). ACC-triggered dark-grown apical hook formation is also compromised in this mutant, and it is not restored by the addition of IAA. Root gravitropism is more disrupted in this double mutant than in either single mutant. The mutant plants are shorter than wild type, have reduced venation in their leaves, exhibit reduced apical dominance, and produce abnormal flowers. DR5:GUS expression is also diminished in these double mutants, consistent with a ~50% reduction in IAA levels in these mutants. Root meristematic cells differentiate in this mutant, leading to a loss of the stem cell niche and the cessation of root
+AT4G24670	wei8-1 tar2-2	ACC-triggered dark-grown apical hook formation is compromised in this mutant. Root meristematic cells differentiate in this mutant, leading to a loss of the stem cell niche and the cessation of root
+AT4G24730	atnrt3.2-1	When grown on plates containing 250 &#956;M NO3- as the sole source of available N for 10 days, mutant plants grew poorly, shoot growth being particularly affected. Roots and shoots accumulated significantly less NO3- than wild type. Nitrate influx into root
+AT4G26080	CS22	Mutant showed a similar sensitivity to 25 mM trehalose as wild type (inhibition of root
+AT4G26080	abi1td	mutant showed ABA-hypersensitive regulation of seed germination and root
+AT4G26455	wip1-1 wip2-1 wip3-1	Both endogenous RanGAP1 and RanGAP1-GFP were absent from the nuclear envelope in root
+AT4G26455	wip1-1 wip2-1 wip3-1	Mutant plants had no observable defect in growth or development under standard laboratory conditions and no change in auxin sensitivity was observed in a standard root
+AT4G26610	d6pkl2-2/d6plk1-1/d6pk-1	Quadruple mutant displays defects in many aspects of development. Defects include:abnormal leaves, leaves are narrow and twisted; reduced number of axillary shoots and reduced fertility. In addition, mutants also display single or fused cotyldons, reduced number of lateral root
+AT4G26610	d6pkl3-2/d6pkl2-2/d6plk1-1/d6pk-1	Quadruple mutant displays defects in many aspects of development. Defects include:abnormal leaves, leaves are narrow and twisted; reduced number of axillary shoots and reduced fertility. In addition, mutants also display single or fused cotyldons, reduced number of lateral root
+AT4G26690	RIKEN 15-1096-1	Homozygotes: Tip growth in almost all root
+AT4G26690	SALK_024208	Homozygotes: Tip growth in almost all root
+AT4G26690	shv3-1	Homozygotes: Tip growth in almost all root
+AT4G26690	shv3-2;svl1-1	Increased anthocyanin accumulation. Collapsed trichomes.Brown discoloration around endodermis in the hypocotyl and root
+AT4G27630	gtg1-1 gtg2-1	These double mutants are hyposensitive to ABA in seed germination, post-germination development, root
+AT4G29040	hlr-1	The hlr-1 (halted root-1) mutant has defective cell organization in the post-embryonic root and shoot apical meristems. Quiescent center cell identity in the root is lost after germination and expression of the organizing center marker WUSCHEL in the shoot is disrupted. However, cells in differentiated tissues maintain their normal identities. hlr-1 mutants have shorter roots, aberrant lateral root
+AT4G29040	hlr-2	The hlr-2 mutant is reported to share the same morphological characteristics with the hlr-1 mutant, but to have a slightly milder phenotype. hlr-1 has defects in root and shoot apical meristem organization, and root
+AT4G29040	hlr-2	The rpt2a-2 mutant has modest defects in ubiquitin-mediated proteolysis via the 26S proteasome, rendering it somewhat more sensitive to misfolded proteins that are degraded in a 26S-proteasome / Ub-dependent manner. However, it also has modestly increased levels of the 20S core particle of the proteasome, and exhibits some reduced sensitivity to oxidative stress, presumably since oxidatively damaged proteins can be degraded in a 20S proteasome-dependent, but 26S proteasome /Ub-independent manner. The mutant has shorter root
+AT4G29130	CS6383	At the flowering stage, the mutant has a smaller root
+AT4G29130	CS6383	Defect in elongation of hypocotyl, root
+AT4G29130	CS6383	Insensitive to high-glucose repression of cotyledon expansion, chlorophyll accumulation, true-leaf development and root
+AT4G29170	Atmnd1-delta1	Mutant plants had normal vegetative development, but flowers failed to produce pollen and seeds; no viable pollen was found in the anthers. In developing pollen mother cells, meiotic progression was interrupted at anaphase I, where chromosomes are randomly distributed and some appear fragmented. Normal embryo sac development was disrupted too, compared to the wild type. AtRAD51 gene was accumulated in the inflorescence nuclei of homozygous plants, while it was absent in the inflorescence nuclei in wild type plants. After exposure to gamma-rays, the levels of AtRAD51 was unchanged in the inflorescence nuclei in mutant plants, while in the wild type nuclei AtRAD51 expression was strongly induced. Compared to the wild type, mutant seedlings were hypersensitive to gamma-irradiation, had shorter root
+AT4G29210	ggt4-1	These mutant plants have reduced levels of gamma-glutamyl transpeptidase activity, especially in the root
+AT4G29860	tan-1	embryo and seedling defective. Mutant plants had defects in both embryo and seedling development. Mutant seeds accumulate anthocyanin, are intolerant to desiccation, cotyledons did not curl, and had often fused along one side of their margins. Trichomes were formed on the cotyledons during embryogenesis, and the accumulation of storage proteins and lipids were reduced. Tan mutants die as embryos, but immature mutant seeds can be germinated in culture. However, tan mutant seedlings are defective in shoot and root development with stunted root
+AT4G30960	atcipk6kd	atcipk6kd exhibited cotyledons fused at the  base and thick hypocotyls. Slight reduction in root length was observed in  atcipk6kd seedlings 14 days after sowing. Delayed  emergence of lateral roots. Decrease in shoot to root
+AT4G31920	arr1-3 arr10-5 arr12-1	severe primary root abnormalities; premature termination of primary root
+AT4G32040	SALK_000339	No visible root
+AT4G32700	SALK_018851	Similar to teb-1, with a typical short-root
+AT4G32700	SALK_035610	Similar to teb-1, with a typical short-root
+AT4G32700	teb-1	A short-root phenotype with the phenotype in the aerial part that is similar to those of the tsk mutant. The roots in mutant seedlings were approximately one-third as long as those from wild type plants. This reduced growth became more pronounced at later time points. The root
+AT4G32700	teb-1	Embryonic phenotype: altered pattern of cell division became pronounced in mutant embryos at the early globular stage. Abnormal, transverse cell division of the hypophysis and extra rounds of division of the suspensor cells. In the heart stage, most of the teb-1 embryos showed an asymmetric and misshaped morphology as well as an aberrant cell division pattern, especially in the hypophysis descendents in the root
+AT4G32700	teb-1	Sensitive to DNA damaging agent (0.2 mg.l MMS); mutant root
+AT4G33430	bak1-4	Mutant exhibited reduced leaf growth (~20%), shorter hypocotyls in the dark, and partial BL insensitivity in root
+AT4G33430	serk3	Mutant exhibited reduced leaf growth (~20%), shorter hypocotyls in the dark, and partial BL insensitivity in root
+AT4G33470	hda14	Increased root
+AT4G33480	hda14	Increased root
+AT4G33495	rpd1-1	Hypocotyl explants of the rpd1-1 mutant formed root
+AT4G33495	rpd1-1	Temperature-sensitive mutant. Initial root
+AT4G33495	rpd1-2	temperature sensitive, impaired in adventitious root
+AT4G33650	drp3a-1	Elongated mitochondria which sometimes form interconnected networks. Enlarged leaf peroxisomes. Elongated root
+AT4G34350	ispH-1	Plants with albino phenotype which exhibit purple-tinted phenotype superimposed on the albino phenotype when grown sucrose-containing medium. ispH-1 plants develop normal root
+AT4G35090	cat2-1	Reduced stature, pale green color and reduced number of secondary root
+AT4G35460	ntra ntrb rml1	ntra ntrb rml1 plants do not show any shoot and root
+AT4G35920	mca1-null	primary root
+AT4G36380	CS3728	The average length of the hypocotyl and primary root
+AT4G38130	hda19-1	Temperature sensitive phenotype.  When grown at 24 degrees C, seedlings have narrow cotyledons compared to wt.  When grown at 29 degrees C, seedlings display several tpl-1-like phenotypes, including monocots, tubes and pins.  Both shott and root
+AT4G38240	SALK_073650	strongly repressed root growth when exposed to salt or manitol, callose accumulation at root
+AT4G39350	ixr2-1 cesa2	The cesa2/cesa6 double mutant has reduced hypocotyl length in the dark, reduced root
+AT4G39350	prc1-1 cesa2-1	The double mutant seedlings had significantly shorter and swollen root
+AT5G01180	atptr1-2 atptr5-1	The ptr1-2 ptr5-2 double mutant grows normally on soil and on AM medium. Its pollen tubes germinate and elongate normally on germination media. The tubes can germinate normally in the presence of 100uM alanyl-ethionine (Ala-Eth), a toxic dipeptide, but they elongate more than wild type pollen tubes.  Root growth of ptr1-2 ptr5-1 mutants exceeds wild type root
+AT5G01180	atptr5-1	The ptr5-1 mutant grows normally on soil and on AM medium. Its pollen tubes germinate and elongate normally on germination media. The tubes can germinate normally in the presence of 100uM alanyl-ethionine (Ala-Eth), a toxic dipeptide, but they elongate more than wild type pollen tubes. Their root
+AT5G01180	atptr5-2	The ptr5-2 mutant grows normally on soil and on AM medium. Its pollen tubes germinate and elongate normally on germination media. The tubes can germinate normally in the presence of 100uM alanyl-ethionine (Ala-Eth), a toxic dipeptide, but they elongate more than wild type pollen tubes. Their root
+AT5G01410	pdx1.3	Sensitive to osmotic and salt stress. Slower growing root
+AT5G01410	pdx1.3	The overall development is markedly delayed for the overall plants, but retardation of root
+AT5G01410	pdx1.3	When grown on media devoid of vitamin B6, the mutant seedlings have a reduced shoot growth and a distinct pale green phenotype, and a marked reduction in primary root
+AT5G01410	rsr4-1	Early development of lateral roots, often at the base of the hypocotyl. In the absence of vitamin B6, it was also observed that lateral root
+AT5G01410	rsr4-1	Mutant plants display several prominent aerial and root
+AT5G01410	rsr4-1	Strong reduction in primary root
+AT5G03150	SALK_054242C	jkd-4 mutants have slightly shorter roots than wild type seedlings, and about 15% of them show premature lateral root initiation. They have fewer root meristem cells than wild type seedlings at 5 and 12 days post-germination. But, there is a higher number of cells in the endodermal and cortical layers of the root
+AT5G03150	jkd-2	jkd-2 mutants have slightly shorter roots than wild type seedlings, and about 15% of them show premature lateral root initiation. They have fewer root
+AT5G03280	ein2-5	Increased number of lateral root
+AT5G03280	ein2-5	Root growth inhibition by ABA on ein2-5 seedlings increased when the concentrations of ABA were elevated. At the ABA concentrations (0.1-0.25 &#956;M) which stimulate root growth of wild-type plants, root
+AT5G03280	ein2-5	Roots of the ein2-5 mutant seedlings showed enhanced sensitivity, although to a lesser extent, to salt and mannitol compared with the wild-type seedlings over the same period. Root
+AT5G03280	ein2-5	When the mutant was grown on increasing concentrations of ABA, cotyledon greening of ein2-5 seedlings was inhibited dramatically, and the inhibitory effects were increased in a dose-dependent manner. Reduction in percentage of cotyledons turning green of ein2-5 seedlings was more than 10% at as low as 0.1 &mu;M ABA. At 0.5 &mu;M ABA, only about 20% of ein2-5 germinated seedlings turned green while 100% of wild-type seedlings were green at 10 days in light. The root
+AT5G03280	seo2	Compared with the parent ein2 and EIN3ox plants, etiolated EIN3ox ein2 seedlings exhibited an intermediate phenotype in terms of hypocotyl and root
+AT5G03540	exo70A1-1	Early seedling growth was not affected in mutants. Later, mutant seedlings had shorter roots, and retarded lateral rot intiation. The polar growth of root
+AT5G03540	exo70a1-2	Early seedling growth was not affected in mutants. Later, mutant seedlings had shorter roots, and retarded lateral rot intiation. The polar growth of root
+AT5G03730	CS8057	Mutation had dramatic effects on the morphology of adult plants. The rosette leaves of mutant plants were much smaller than wild-type leaves. The mutants bolted - l-2 weeks later, the early flowers were infertile, the root
+AT5G03730	ctr1-1	Reduced number of lateral root
+AT5G03730	ctr1-2	Mutation had dramatic effects on the morphology of adult plants. The rosette leaves of mutant plants were much smaller than wild-type leaves. The mutants bolted - l-2 weeks later, the early flowers were infertile, the root
+AT5G03730	ctr1-3	Mutation had dramatic effects on the morphology of adult plants. The rosette leaves of mutant plants were much smaller than wild-type leaves. The mutants bolted - l-2 weeks later, the early flowers were infertile, the root
+AT5G03730	ctr1-4	Mutation had dramatic effects on the morphology of adult plants. The rosette leaves of mutant plants were much smaller than wild-type leaves. The mutants bolted - l-2 weeks later, the early flowers were infertile, the root
+AT5G03730	ctr1-5	Mutation had dramatic effects on the morphology of adult plants. The rosette leaves of mutant plants were much smaller than wild-type leaves. The mutants bolted - l-2 weeks later, the early flowers were infertile, the root
+AT5G03860	mls-1	Mutants have only a slightly stunted phenotype when grown in the absence of exogenous sugar in the light. The phenotype is more obvious in the dark where hypocotyl elongation is inhibited, and little root
+AT5G03860	mls-2	Mutants have only a slightly stunted phenotype when grown in the absence of exogenous sugar in the light. The phenotype is more obvious in the dark where hypocotyl elongation is inhibited, and little root
+AT5G08020	SALK_088429C	This mutant does not differ visibly from a wild type plant when grown under normal conditions. A UV-B dose during the first week of growth on normal media affects the atrpa70b mutant and wild-type seedlings similarly, although the mutants have an increased level of leaf yellowing. After a longer period of exposure to UV-B, the level of chlorophyll A and B is reduced to a greater extent in rpa70b mutants than in wild-type, and root growth is more inhibited in the mutants. Treatment with MMS also causes a greater inhibition of root growth in rpa70b mutants than in wild-type seedlings. In contrast, the mutants show a wild-type level of sensitivity to H2O2 in root
+AT5G08100	CS67896	Increased sensitivity to delay in root hair emergence in response to exogenous asparagine. Increased accumulation of asparagine in root
+AT5G08100	CS67896	increased sensitivity to inhibition of root
+AT5G08100	SAIL_690_E07	increased sensitivity to inhibition of root
+AT5G08100	SALK_087377C	increased sensitivity to inhibition of root
+AT5G08550	ilp1-1	Shorter hypocotyls and roots compared to their wild type siblings in darkness.  In the light, plants have shorter hypocotyls and smaller cotyledons compared with the wild type, and there was inhibition of root
+AT5G08550	ilp1-2	Shorter hypocotyls and roots compared to their wild type siblings in darkness.  In the light, plants have shorter hypocotyls and smaller cotyledons compared with the wild type, and there was inhibition of root
+AT5G09680	rlf-1	reduced lateral root
+AT5G09810	act2-1/act7-4	Plants are dwarf and reach only 15% of the height of wild type. Roots lack root
+AT5G09810	act7-4	Abnormal roots. Roots are shorted and have fewer root hairs (ca. 20% less than wild type). Root
+AT5G09810	act8-2/act7-4	Plants are dwarf. Leaves are smaller and contain fewer cells and fewer lobes than wild type. Reduced number of trichome branches. Petals are narrow. Roots are more severely affected and produce short root
+AT5G10250	dot3-1	dot3-1 mutants are dwarfed plants that have a parallel venation pattern defect in their leaves and abnormal vein loop patterns in their cotyledons. Primary root growth is significantly inhibited in dot3-1 mutants, but, they can produce lateral and adventitious root
+AT5G10330	hpa1	Short roots. Initial development is normal but by 7 days post germination organization of the root
+AT5G10510	plt3-1	Short roots and shortened root
+AT5G10510	plt3-1/plt2-2/plt1-4	Rootless.Embryonic root differentiates 3 days after germination. Adventitious root
+AT5G11260	CS71	Mutants grown on agar plates have widely  spread lateral roots. Compared with that of wild-type plants, the direction of lateral root growth is nearly horizontal rather than downward, indicating alteration of the gravitropic response. The angles between the lateral roots and the orientation of gravity are larger than those of the wild type. In addition, secondary lateral root
+AT5G11260	CS71	Roots of wild-type plants turn green when grown under light conditions.  The roots of wildtype plants were green, whereas those of the mutants remained white after having been  cultured for 30 days under light. The chlorophyll content in roots of the wild-type plant (Ws) was 1.1 &#956;g of chlorophyll/gram of fresh roots. Chlorophyll was not detected in root
+AT5G11260	SALK_096651C	Decreased sensitivity to ABA induced lateral root
+AT5G11260	hy5-215	Mutants grown on agar plates have widely  spread lateral roots. Compared with that of wild-type plants, the direction of lateral root growth is nearly horizontal rather than downward, indicating alteration of the gravitropic response. The angles between the lateral roots and the orientation of gravity are larger than those of the wild type. In addition, secondary lateral root
+AT5G11260	hy5-KS50	At 4 DAG, the number of lateral root
+AT5G11260	hy5-KS50	Mutants grown on agar plates have widely  spread lateral roots. Compared with that of wild-type plants, the direction of lateral root growth is nearly horizontal rather than downward, indicating alteration of the gravitropic response. The angles between the lateral roots and the orientation of gravity are larger than those of the wild type. In addition, secondary lateral root
+AT5G11260	hy5-KS50	Roots of wild-type plants turn green when grown under light conditions.  The roots of wildtype plants were green, whereas those of the mutants remained white after having been  cultured for 30 days under light. The chlorophyll content in roots of the wild-type plant (Ws) was 1.1 &#956;g of chlorophyll/gram of fresh roots. Chlorophyll was not detected in root
+AT5G13290	sol2-1	WT root
+AT5G13570	dcp2-1	Null mutants of DCP1, DCP2, and VCS accumulate capped mRNAs with a reduced degradation rate. The homozygous progeny of these mutants also share a similar lethal phenotype at the seedling cotyledon stage, with disorganized veins, swollen root
+AT5G13570	dcp2-1	The homozygous progeny is seedling lethal, showed arrested postembryonic development including cotyledon expansion, development of vascular networks, root
+AT5G13570	dcp2-1	The mutant produced no leaves, short roots  with short and swollen root
+AT5G13570	tdt-1	The mutant produced no leaves, short roots  with short and swollen root
+AT5G13570	tdt-1	The vascular transition is a region where the root
+AT5G14420	rglg1 rglg2	Auxin (IAA) concentration was almost twofold lower in root
+AT5G14420	rglg1 rglg2	Roots of wild-type and mutant plants were similar in spite of a moderate (14%) reduction in the main root
+AT5G16530	pin5-5	Defective in lateral root initiation as well as in root and hypocotyl growth; root
+AT5G16780	dot2-1	dot2-1 mutants are dwarved plants that display an aberrant spurred leaf venation pattern and fail to flower. They also have an abnormal cotyledon number, shorter petioles, significantly shorter root
+AT5G18170	CS3975	deficient in glutamate dehydrogenase; conditional phenotype: impaired root
+AT5G18560	puchi-1	shorter visible lateral roots at 9 days after germination. The proximal region of each lateral root in the mutant is significantly swollen and often bent. Growth and morphology of the primary root
+AT5G19040	atipt1 atipt 3 atipt 5 atipt7	External application of <i>trans</i>-zeatin partially rescues the growth of aerial parts of the mutant, and reduced its lateral root
+AT5G19040	atipt1 atipt 3 atipt 5 atipt7	Reduced cambial activity and reduced secondary growth in both shoots and root
+AT5G19040	atipt1 atipt 3 atipt 5 atipt7	Relative to wild type, both the number of lateral roots (longer than 1cm) and the total length of the lateral root
+AT5G19040	atipt3 atipt 5 atipt 7	Enhanced root growth rate resulting in longer root
+AT5G19040	atipt3 atipt 5 atipt 7	Mutant root
+AT5G19040	atipt3 atipt 5 atipt 7	Relative to wild type, both the number of lateral roots (longer than 1cm) and the total length of the lateral root
+AT5G19660	s1p-3	s1p-3 mutants exhibit a greater inhibition of primary root
+AT5G20410	mgd2 mgd3	Under Pi starved conditions, reduced DGDG content is observed, the proportion of phosphatidylethanolamine and phosphatidylcholine increased approximately two-fold in shoot and large differences in fatty acid compositions of galactolipids are seen in shoots and particularly roots. Under these conditions, the fresh weight of shoots and root
+AT5G20490	SALK_067972C	The xik-2 mutant has normal root growth, but its root hairs are only 50% of the length of wild type root
+AT5G20490	SALK_067972C	There are no obvious defects in the aerial tissues of xi-k mutant plants grown under normal conditions. The root length of the mutant is also normal, but, it has shorter roots hairs than wild-type plants. There are decreased rates of movement of Golgi stacks, peroxisomes, and mitochondria in root
+AT5G20490	SALK_136682C	The xik-1 mutant has normal root growth, but its root hairs are only 49% of the length of wild type root
+AT5G20490	WiscDsLox417C12 (HOMOZYGOUS)	There are no obvious defects in the aerial tissues of xi-k mutant plants grown under normal conditions. The root length of the mutant is also normal, but, it has shorter root
+AT5G20490	xi-k / xi-1	The xi-k / xi-1 double mutant plants are shorter and have smaller rosettes than wild type plants. Their reduced leaf size results from decreased cell size and decreased cell number. These double mutants produce fewer seeds per silique than wild type plants. In the leaf epidermis, Golgi stacks, peroxisomes, and mitochondria move more slowly in these mutant cells than in wild-type cells. Root hair length is reduced to ~35% of the wild type root hair length in these double mutants, but their root
+AT5G20490	xi-k / xi-2	The overall growth of the xi-k / xi-2 double mutant is normal. In the leaf epidermis, Golgi stacks, peroxisomes, and mitochondria move more slowly in these mutant cells than in wild-type cells. Root hair length is reduced to ~20% of the wild type root hair length in these double mutants, but their root
+AT5G20490	xik-3	The xik-3 mutant has normal root growth, but its root hairs are only 77% of the length of wild type root
+AT5G20730	CS24625	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT5G20730	CS24625	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT5G20730	CS24625	nph4-1 arf19 double mutant;  agravitropic response in both hypocotyls and roots; impaired phototropic response in hypocotyls; impaired lateral root
+AT5G20730	CS24626	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT5G20730	CS24626	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT5G20730	CS24626	nph4-1 arf19 double mutant;  agravitropic response in both hypocotyls and roots; impaired phototropic response in hypocotyls; impaired lateral root
+AT5G20730	CS24627	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT5G20730	CS24627	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT5G20730	CS24628	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT5G20730	CS24628	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT5G20730	CS24629	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT5G20730	CS24629	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT5G20730	CS24630	The double mutant mutant displays agravitropic responses in both hypocotyls and roots. When seedlings are grown vertically under dark conditions, the regulation of growth orientation is disrupted in both hypocotyls and roots, with the hypocotyls occasionally growing downward and the roots upward. Also, the root
+AT5G20730	CS24630	The phenotype of the double mutant is most obvious at its seedling stage, with its most prominent phenotype being severely impaired  lateral root formation. Its primary roots fail to produce lateral roots in 2-week-old seedlings. However, double mutant seedlings start to generate several lateral root
+AT5G20730	arf7-201	Seedlings grown in the dark on sirtinol show long hypocotyls but no apical hook, have primary roots and are resistant to IAA and 2,4-D.  In the dark, hypocotyls but not root
+AT5G20730	arf7-201 arf19-101	Dark grown seedlings on sirtinol have both long primary roots and long hypocotyls.  More resistant to 2,4-D and IAA than single mutants in both light and dark.  The ethylene resistant root
+AT5G20730	msg1-1	Hypocotyl growth resistant (but not root
+AT5G20730	msg1-1	Root
+AT5G20730	msg1-2	Hypocotyl growth resistant (but not root
+AT5G20730	msg1-2	Root
+AT5G20730	msg1-3	Hypocotyl growth resistant (but not root
+AT5G20730	msg1-3	Root
+AT5G20730	nph4-1	Mutant produces fewer lateral root
+AT5G20830	sus1 (SALK)	The amounts of glucose, fructose, sucrose, cellulose (root
+AT5G20830	sus1 sus4	The activity of SUS was reduced to 10% of wild-type levels in leaves of the mutant, and was undetectable (reduced to less than 10% of wild-type levels) in roots. The activity of invertase was unaffected in root
+AT5G20830	sus1 sus4	The double mutant line was much more  severely affected by flooding. After the 4 days of flooding, root weight had increased by only 44% (compared to 72% for wild type), and there was not statistically significant gain in root weight in the 3 days following flooding. At the end of the 7-day period, the flooding treatment had reduced the gain in root
+AT5G23720	phs1-1	phs1-1 exhibits phenotypes indicative of compromised cortical microtubule functions, such as left-handed helical growth of seedling root
+AT5G24270	sos3-1 siz1-1	Decrease of macronutrients concentration in the MS salt formulation to 1/20X results in a substantial reduction in primary root
+AT5G24270	sos3-1 siz1-1	Mutant grown in greenhouse or growth chamber exhibits reduced shoot and root
+AT5G24270	sos3-1 siz1-1	Substantially more pronounced prototypical Pi starvation root architecture responses than sos3-1 or wild-type seedlings. On Pi-limited medium, mutant seedlings exhibit an inhibition of primary root growth, an increase of lateral root development and length, and higher root
+AT5G24310	amiRNA_ABIL3	Trichomes are irregularly expanded and distorted. Branch  lengths are significantly affected with all  three branches being significantly shorter than the respective branches of wild type trichomes.  Increased distance between first and second branch point as compared to WT.  Increased diameter at base of trichome.  Actn filaments in developing trichomes are generally more bundled  and more randomly distributed.  Increased root
+AT5G24520	urm23	urm23 mutant leaves produce almost normal trichomes with slight clustering phenotype. Neither root
+AT5G25220	SALK_136464	No visible root
+AT5G25350	ebf1-1 ebf2-1	The mutant shows dwarfed growth, supernumerary epinastically curled leaves, early senescence, and abnormal flowers with the gynoecium protruding from the unopened floral buds. However, the phenotypes seen in double mutant plants are more severe than those seen in ctr1. This becomes apparent at about two weeks after germination, except for the reduced root
+AT5G25350	ebf1-1 ebf2-1	When germinated in the dark, the mutant display a ctr1-like phenotype (short hypocotyls, short root
+AT5G25350	ebf1-1 ebf2-1	When grown in the light, the double mutants display slightly longer hypocotyls, curled unexpanded cotyledons, and short and thicker roots with ectopic root
+AT5G25350	ebf1-2 ebf2-1	ctr1-like phenotype (short hypocotyls, short root
+AT5G25350	ebf1-3 ebf2-3 eil1-3	Modest rescue of the ebf1-3 ebf2-3 phenotype. Seedlings continue grow and develop at a slow pace after germination. Cotyledons partially expanded and turned pale green. Stunted root densely covered with root
+AT5G26030	atfc1	no visible phenotype. decreased heme contents in root
+AT5G26240	SALK_042895	Root
+AT5G27320	gid1a-1 gid1b-1 gid1c-1	Dramatic reduction in rosette radius and root
+AT5G27320	gid1a-1 gid1c-1	Only slight differences between mutant and wild type plants with regard to rosette radius and root
+AT5G27320	gid1b-1 gid1c-1	Only slight differences between mutant and wild type plants with regard to rosette radius and root
+AT5G27320	gid1c-1	Only slight differences between mutant and wild type plants with regard to rosette radius and root
+AT5G28646	wvd2-1	Inhibition of cell elongation, right-handed root twisting, left-handed leaf petiole twisting, suppression of root-waving, reduced trichome branching, perturbed microtubule organization such as increased longitudinal and oblique positions in root
+AT5G35410	CS3863	Do not display altered sensitivity for inhibition of root
+AT5G35750	ahk2-1cu ahk3-1cu	Root
+AT5G35750	ahk2-1cu ahk3-1cu ahk4-1cu	Aborted vascular system containing few protoxylem cells in the primary root. Normal adventitious root
+AT5G35750	ahk2-1cu ahk3-1cu ahk4-1cu	Adventitious root
+AT5G35750	ahk2-1cu ahk3-1cu ahk4-1cu	Does not produce lateral roots from the primary root. However, 10 days after germination, lateral roots are formed at the upper part of the hypocotyl rather than at the root
+AT5G35750	ahk2-1cu ahk3-1cu ahk4-1cu	Normal vascular system in adventitious roots, although the hypocotyl and primary root
+AT5G35750	ahk2-1cu ahk3-1cu ahk4-1cu	Postembryonic growth of root
+AT5G35750	ahk2-1cu ahk3-1cu ahk4-1cu	Reduced seedling size with small cotyledons, slightly shortened hypocotyls (65% of wildtype) and significantly reduced root
+AT5G35750	ahk2-1cu ahk4-1	Root
+AT5G35750	ahk2-1ms ahk3-1ms	Normal root
+AT5G35750	ahk2-2tk	Cytokinin-induced inhibition of adventitious root
+AT5G35750	ahk2-2tk	Normal or slightly reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT5G35750	ahk2-2tk ahk3-3	Normal root
+AT5G35750	ahk2-2tk ahk3-3	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT5G35750	ahk2-5 ahk3-7	Displays secondary lateral root
+AT5G35750	ahk2-5 ahk3-7 cre1-2	Increased seed size, largely due to increased size of the embryo. Embryonic root
+AT5G35750	ahk2-5 cre1-2	Displays secondary lateral root
+AT5G35750	cre1-10 ahk2-1ms	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT5G35750	cre1-10 ahk2-1ms ahk3-1ms	Shoot and root
+AT5G35750	cre1-12 ahk2-2tk	Reduced sensitivity to cytokinin in root growth assay (exogenous application of cytokinins inhibits wildtype root
+AT5G35750	cre1-12 ahk2-2tk ahk3-3	Shoot and root
+AT5G35750	cre1-12 ahk2-2tk ahk3-3	Shorter root
+AT5G35750	cre1-12 ahk2-2tk ahk3-3	The size and activity of the root
+AT5G35750	stip-d ahk2-2 ahk3-3 cre1-12	Small SAM and limited root
+AT5G37180	SALK_102146C	The amounts of glucose, fructose, sucrose, cellulose (root
+AT5G37180	sus5 (SALK_065271)	The amounts of glucose, fructose, sucrose, cellulose (root
+AT5G37180	sus5 (SALK_152944)	The amounts of glucose, fructose, sucrose, cellulose (root
+AT5G37830	SALK_078745C	oxp1-1 cannot convert 5-oxoproline (5OP) into glutamine. Elevated levels of 5OP accumulate in the the leaves, stems, roots, flowers, and siliques of this mutant, while the level of glutamate is reduced. oxp1-1 mutants have normal seedling root
+AT5G39510	sgr4-1	Inflorescence stems and hypocotyls of mutant plants showed abnormal gravitropic response, while root
+AT5G39610	nac2-1	Not significantly affected in lateral root
+AT5G42890	Atscp2-1	Lower germination frequency and time, restored by addition of 1% sucrose. Smaller cotyledon rosettes and  shorter hypocotyls than wild-type and the root elongation  was also retarded. In the dark, root
+AT5G43900	SALK_055785C	There are no obvious defects in the aerial tissues of xi-2 mutant plants grown under normal conditions. The root length of the mutant is also normal, but, it has shorter root
+AT5G43900	xi-2 / xi-b	The overall growth of the xi-2 / xi-b double mutant is normal. In the leaf epidermis, Golgi stacks and peroxisomes move more slowly in these mutant cells than in wild-type cells. The rate of mitochondrial movement is also slightly reduced. Root hair length is reduced to ~15% of the wild type root hair length in these double mutants, but their root
+AT5G43900	xi-k / xi-2	The overall growth of the xi-k / xi-2 double mutant is normal. In the leaf epidermis, Golgi stacks, peroxisomes, and mitochondria move more slowly in these mutant cells than in wild-type cells. Root hair length is reduced to ~20% of the wild type root hair length in these double mutants, but their root
+AT5G43940	FLAG_298F11	Unable to grow following germination on nutrient medium in the dark. Unable to grow in the light on growth medium. The mutant seeds germinated, but growth was arrested right after some root
+AT5G43940	GABI_315D11	Unable to grow following germination on nutrient medium in the dark. Unable to grow in the light on growth medium. The mutant seeds germinated, but growth was arrested right after some root
+AT5G44070	cad1-1	When grown in the presence of inhibitory levels of cadmium, growth is inhibited, leaves become progressively chlorotic and the root
+AT5G44070	cad1-3	When grown in the presence of inhibitory levels of cadmium, growth is inhibited, leaves become progressively chlorotic and the root
+AT5G44070	cad1-4	When grown in the presence of inhibitory levels of cadmium, growth is inhibited, leaves become progressively chlorotic and the root
+AT5G44070	cad1-5	When grown in the presence of inhibitory levels of cadmium, growth is inhibited, leaves become progressively chlorotic and the root
+AT5G44740	SALK_129731	Homozygotes are sensitive to UV-B treatment. UV-B treatment causes an inhibition of root
+AT5G44750	SALK_005721	Mutant plants were moderately sensitive to UV-B irradiation than the wild type when mutant seedlings were irradiated with various doses of UV-B irradiation and grown in the light. Both root
+AT5G44750	SALK_011334	Mutant plants were moderately sensitive to UV-B irradiation than the wild type when mutant seedlings were irradiated with various doses of UV-B irradiation and grown in the light. Both root
+AT5G46330	fls2-17	Mutant seedlings treated with 10&#956;M flg22 peptide (strong growth inhibitor) display shoot and root
+AT5G46330	fls2-24	Mutant seedlings treated with 10&#956;M flg22 peptide (strong growth inhibitor) display shoot and root
+AT5G46860	sgr3-1	Inflorescence stems of mutant plants showed delayed and reduced gravitropic response in horizontal gravistimulation experiments. Ethyolated hypocotyls and root
+AT5G47100	cbl1 cbl9	growth of the cbl1  cbl9 double mutant was significantly more inhibited than the  growth of wild-type root
+AT5G47120	atbi1-2	Increased sensitivity to tunicamycin an inhibitor of N-linked glycosylation and inducer of ER stress. After treatment mutant seedlings display growth defects and chlorophyll loss. Mutant root
+AT5G47750	d6pkl2-2/d6plk1-1/d6pk-1	Quadruple mutant displays defects in many aspects of development. Defects include:abnormal leaves, leaves are narrow and twisted; reduced number of axillary shoots and reduced fertility. In addition, mutants also display single or fused cotyldons, reduced number of lateral root
+AT5G47750	d6pkl3-2/d6pkl2-2/d6plk1-1/d6pk-1	Quadruple mutant displays defects in many aspects of development. Defects include:abnormal leaves, leaves are narrow and twisted; reduced number of axillary shoots and reduced fertility. In addition, mutants also display single or fused cotyldons, reduced number of lateral root
+AT5G47990	SALK_143113C	thad1-1 mutants have longer roots and elevated levels of thalianol and thalian-diol in root extracts compared to wild type plants. However, these mutants do not seem to have higher susceptibility to Atlernaria brassicicola or Pseudomonas syringae pv. tomato DC3000 based on assays performed on seedling root
+AT5G48000	SALK_148229C	thah1-1 mutants have an elevated accumulation of thalianol and longer roots than wild type plants. Thalian-diol and desaturated thalian-diol are lost from the root extracts of thah1-1 mutants. However, these mutants do not seem to have higher susceptibility to Atlernaria brassicicola or Pseudomonas syringae pv. tomato DC3000 based on assays performed on seedling root
+AT5G48000	thah1-2	thah1-2 mutants have elevated levels of thalianol in their root
+AT5G48010	thas1-1	thas1-1 mutants do not produce detectable levels of thalianol in root extracts but low  levels of this compound can be detected in wild type root extracts. However, these mutants do not seem to have higher susceptibility to Atlernaria brassicicola or Pseudomonas syringae pv. tomato DC3000 based on assays performed on seedling root
+AT5G48150	pat1-1	No aberrant root
+AT5G48160	obe1-1 obe2-1	Premature termination and loss of the shoot apical meristem. Failure to establish or maintain the root
+AT5G48160	obe1-1 obe2-2	absence of root
+AT5G48300	aps1-SALK_040155	In short days plants have delayed growth and were late flowering.In long day conditions, plants also had delayed growth but flowering time was unaffected. Lacks ADP-Glc PPase activity in leaves and no starch can be found in leaves or root
+AT5G49190	GABI_377G03	The amounts of glucose, fructose, sucrose, cellulose (root
+AT5G49190	sus2 (SALK_076303)	The amounts of glucose, fructose, sucrose, cellulose (root
+AT5G49190	sus2 sus3	Activity of SUS was reduced by about one-third in root
+AT5G49270	der9	Root hairs have mostly very short root
+AT5G49680	kip-1	Pollen tube growth was altered. Pollen tubes were shorter, often having branched appearance and peculiar kinky shape. Also, callose plugs were rare or absent in mutant pollen tubes, compared to the wild type. Despite morphological aberrations, twisted pollen tube appeared to have same ultrastructural features as the wild type pollen tubes. Migration of the male germ unit to the pollen tube occurred at approximately the same time in mutants and in the wild type. Homozygous progeny showed shorter and thicker root
+AT5G49680	kip-2	Pollen tube growth was altered. Pollen tubes were shorter, often having branched appearance and peculiar kinky shape. Also, callose plugs were rare or absent in mutant pollen tubes, compared to the wild type. Despite morphological aberrations, twisted pollen tube appeared to have same ultrastructural features as the wild type pollen tubes. Migration of the male germ unit to the pollen tube occurred at approximately the same time in mutants and in the wild type. Homozygous progeny showed shorter and thicker root
+AT5G49680	kip-2/sab	Adult mutant plants were three to four times smaller than single mutant, sab plants. Roots of double mutant were shorter than roots of sab mutant. Radial organization of the root was similar to the roots of sab mutant. Root
+AT5G49680	kip-3	Pollen tube growth was altered. Pollen tubes were shorter, often having branched appearance and peculiar kinky shape. Also, callose plugs were rare or absent in mutant pollen tubes, compared to the wild type. Despite morphological aberrations, twisted pollen tube appeared to have same ultrastructural features as the wild type pollen tubes. Migration of the male germ unit to the pollen tube occurred at approximately the same time in mutants and in the wild type. Homozygous progeny showed shorter and thicker root
+AT5G49970	SALK_149382C	Reduced root
+AT5G49970	pdx3-1	Reduced root
+AT5G50200	Atnrt3.1-1	When grown on plates containing 250 &#956;M NO3-  as the sole source of available N for 10 days, mutant plants grew poorly, shoot  growth being particularly affected. Roots and shoots accumulated significantly less NO3- than wild type. Nitrate influx into root
+AT5G50375	cpi1-1	sterile, dwarf phenotype with small, round, dark leaves, a short hypocotyl and root and defective root gravitropism. Root
+AT5G51600	DYC283	Dwarf. Fertile but had 25% fewer seeds per silique than normal.  Sections through the dyc283 mutant root
+AT5G54380	the1-1 prc1-1	In the double mutant, the amount of ectopic lignin was reduced in hypocotyls and entirely absent in the root
+AT5G54440	club-2	Amorphous, club-like seedlings.  Reduced growth of root
+AT5G54690	irx8-1	Collapsed xylem vessels in root
+AT5G54690	irx8-1	Immunolabeling of stem and root
+AT5G54690	irx8-1	In the homozygous mutant cell wall, decrease of cellulose content (~25%) and notable reduction in xylose in stems and root
+AT5G54690	irx8-1	Where in wild-type roots xylem files form a closely packed array of cell  files, leading to the regular occurrence of  tripartite cell corners between xylem cell files, the central cylinder of homozygous mutant root
+AT5G54690	irx8-2	Collapsed xylem vessels in root
+AT5G54690	irx8-2	In the homozygous mutant cell wall, decrease of cellulose content (~25%) and notable reduction in xylose in stems and root
+AT5G54690	irx8-2	Where in wild-type roots xylem files form a closely packed array of cell  files, leading to the regular occurrence of  tripartite cell corners between xylem cell files, the central cylinder of homozygous mutant root
+AT5G54690	irx8-3	Collapsed xylem vessels in root
+AT5G54690	irx8-3	Where in wild-type roots xylem files form a closely packed array of cell  files, leading to the regular occurrence of  tripartite cell corners between xylem cell files, the central cylinder of homozygous mutant root
+AT5G54690	irx8-4	Collapsed xylem vessels in root
+AT5G54690	irx8-4	Where in wild-type roots xylem files form a closely packed array of cell  files, leading to the regular occurrence of  tripartite cell corners between xylem cell files, the central cylinder of homozygous mutant root
+AT5G54690	irx8-5	Collapsed xylem vessels in root
+AT5G54690	irx8-5	Where in wild-type roots xylem files form a closely packed array of cell  files, leading to the regular occurrence of  tripartite cell corners between xylem cell files, the central cylinder of homozygous mutant root
+AT5G54690	irx8-6	Immunolabeling of stem and root
+AT5G55480	shv3-2;svl1-1	Increased anthocyanin accumulation. Collapsed trichomes.Brown discoloration around endodermis in the hypocotyl and root
+AT5G55540	trn1-1	Primary roots of mutant plants were shorter than in the wild type, hairy and twisted along longitudinal axis. Organ twisting was noticeable in leaf and stem too, but not in cotyledons and hypocotyl. Inflorescence was twisted too, containing twisted and abnormally shaped flowers with reduced fertility. Initial divisions in the epidermal/lateral root cap initial are defective in mutant roots. Furthermore, lateral root cap cells develop in the epidermal position in trn1 root
+AT5G55580	twr-1	altered root meristem function resulting in short root
+AT5G55910	d6pkl2-2/d6plk1-1/d6pk-1	Quadruple mutant displays defects in many aspects of development. Defects include:abnormal leaves, leaves are narrow and twisted; reduced number of axillary shoots and reduced fertility. In addition, mutants also display single or fused cotyldons, reduced number of lateral root
+AT5G55910	d6pkl3-2/d6pkl2-2/d6plk1-1/d6pk-1	Quadruple mutant displays defects in many aspects of development. Defects include:abnormal leaves, leaves are narrow and twisted; reduced number of axillary shoots and reduced fertility. In addition, mutants also display single or fused cotyldons, reduced number of lateral root
+AT5G55920	oli2-1	Shorter primary root
+AT5G56210	wip1-1 wip2-1 wip3-1	Both endogenous RanGAP1 and RanGAP1-GFP were absent from the nuclear envelope in root
+AT5G56210	wip1-1 wip2-1 wip3-1	Mutant plants had no observable defect in growth or development under standard laboratory conditions and no change in auxin sensitivity was observed in a standard root
+AT5G56290	CS3949	resistant to the inhibition of root elongation caused by 5 microM indole-3-butyric acid (IBA); fails to induce normal number of lateral root
+AT5G57390	EMKox-2	22.9% (72 of 314) of seedlings produced lightgreen, somatic embryos  at the tip margin of  cotyledons. Eight percent (25 of 314) of seedlings were equipped with ectopic trichomes on the  cotyledons.  Elongation of roots and emergence of root  hairs in AtEMKox-2 were severely inhibited in comparison  to WT. Furthermore,  the roots of AtEMKox-2 showed aberrant structures  such as tumescence of cells and entwined root hairs. In spite of the abnormal shape of roots, the root
+AT5G59710	Atvip2	In transient root
+AT5G60410	siz1-2	Substantially more pronounced prototypical Pi starvation root architecture responses than sos3-1 or wild-type seedlings. On Pi-limited medium, mutant seedlings exhibit an inhibition of primary root growth, an increase of lateral root development and length, and higher root
+AT5G60410	siz1-3	Substantially more pronounced prototypical Pi starvation root architecture responses than sos3-1 or wild-type seedlings. On Pi-limited medium, mutant seedlings exhibit an inhibition of primary root growth, an increase of lateral root development and length, and higher root
+AT5G60410	sos3-1 siz1-1	Decrease of macronutrients concentration in the MS salt formulation to 1/20X results in a substantial reduction in primary root
+AT5G60410	sos3-1 siz1-1	Mutant grown in greenhouse or growth chamber exhibits reduced shoot and root
+AT5G60410	sos3-1 siz1-1	Substantially more pronounced prototypical Pi starvation root architecture responses than sos3-1 or wild-type seedlings. On Pi-limited medium, mutant seedlings exhibit an inhibition of primary root growth, an increase of lateral root development and length, and higher root
+AT5G60920	CS8541	Callus-induced root
+AT5G60920	CS8541	When grown on media containing 0.5% sucrose, the mutant had reduced root
+AT5G60920	cob-4	Dark grown hypocotyls have reduced length compared to wild type. Root
+AT5G61070	SALK_006938	Increased root
+AT5G62165	agl42-4	No root
+AT5G62500	eb1b-1	Plants grown on agar plates have root
+AT5G62940	hca2	Plants are dwarfed. In the hca2 mutant inflorescence stems, petioles,and main veins of leaves, the ordered patterning of vascular bundles is replaced by a continuous vascular cambium undergoing periclinal divisions to produce radial files of xylem and phloem.Interfascicular cambium is extensively formed/developed between the vascular bundles, and the area normally occupied by the interfascicular parenchyma cells is replaced by vascular tissues.  Continuous phloem tissue consisting of several layers of sieve tubes and companion cells encircles the vascular cambium in hca2.  The vascular tissue in the  hypocotyls and root
+AT5G62950	hca2	Plants are dwarfed. In the hca2 mutant inflorescence stems, petioles,and main veins of leaves, the ordered patterning of vascular bundles is replaced by a continuous vascular cambium undergoing periclinal divisions to produce radial files of xylem and phloem.Interfascicular cambium is extensively formed/developed between the vascular bundles, and the area normally occupied by the interfascicular parenchyma cells is replaced by vascular tissues.  Continuous phloem tissue consisting of several layers of sieve tubes and companion cells encircles the vascular cambium in hca2.  The vascular tissue in the  hypocotyls and root
+AT5G63920	SALK_139357	severely impaired in growth and barely germinated on growth  medium or in soil; the mutants had deformed cotyledons and  were not able to form root
+AT5G64070	PI-4Kbeta1/beta2	aberrant root
+AT5G64740	ixr2-1 cesa2	The cesa2/cesa6 double mutant has reduced hypocotyl length in the dark, reduced root
+AT5G64740	prc1-1 cesa2-1	The double mutant seedlings had significantly shorter and swollen root
+AT5G64740	prc1-10	When grown on media containing 0.5% sucrose, the mutant had reduced root
+AT5G64740	prc1-9	Callus-induced root
+AT5G64740	the1-1 prc1-1	In the double mutant, the amount of ectopic lignin was reduced in hypocotyls and entirely absent in the root
+AT5G65090	der4	Root
+AT5G65420	cycd4;1	During germination, the onset of cell proliferation in root
+AT5G65940	CS3947	resistant to the inhibition of root elongation caused by 5 microM indole-3-butyric acid (IBA); fails to induce normal number of lateral root
+AT5G65940	CS3948	resistant to the inhibition of root elongation caused by 5 microM indole-3-butyric acid (IBA); fails to induce normal number of lateral root
+AT5G66680	dgl1-1	Dwarf.  Growth defect of the dark-grown hypocotyl.  Post-embryonic development ceases entirely at the seedling stage.  Cell wall polysaccharides with an altered monosaccharide composition: increased arabinose and glucose content in non-cellulosic polymers.  Cell elongation is reduced in both hypocotyls and root
+AT5G66880	snrk2.2 snrk2.3	snrk2.2 snrk2.3 was found to be ABA-insensitive in seed germination and early seedling growth  snrk2.2 snrk2.3 seeds showed green cotyledons at 5 d after sowing (non of the wild-type seeds had germinated at this time)  snrk2.2 snrk2.3 had decreased seed dormancy  snrk2.2 snrk2.3 was insensitive to the stimulating effect of low ABA concentration (<1 uM)on root
+AT5G67270	eb1c-1	Plants grown on agar plants show leftward skewing of root
