@@ -1,0 +1,174 @@
+#Scripts used where all the packages and function needed for this task are
+source('install-packages.R')
+source('test-install.R')
+source('functions.R')
+
+#Libraries needed
+library(bnlearn)
+library(gRain)
+
+#The BN is constitud by estructure (DAG) and probabilities (CPTs)
+#Creating DAG 
+string <- paste('[Pollution][Smoker][Cancer|Pollution:Smoker]',
+                '[X|Cancer][Dyspnoea|Cancer]', sep = '')
+bl.cancer<-model2network(string)
+plot(bl.cancer, highlight = list(nodes='Cancer',col = "blue",textCol = "blue", fill="grey")) #to highlight the node
+
+#Adding states and probabilities (CPTs) CPTs= parameters of the local distribution
+TF <- c("True","False")
+lh <- c("low","high")
+pn <- c("positive","negative")
+
+P <- array(dimnames = list(Pollution=lh), dim=2, c(0.9,0.1))
+S <- array(dimnames = list(Smoker = TF), dim = 2,
+           c(0.3,0.7))
+C <- array(dimnames = list(Cancer = TF, Pollution = lh,
+                           Smoker = TF), dim = c(2, 2, 2),
+           c(0.03,0.97,0.001,0.999,0.05,0.95,0.02,0.98))
+D <- array(dimnames = list(Dyspnoea = TF, Cancer = TF),
+           dim = c(2, 2), c(0.65,0.35,0.3,0.7))
+X <- array(dimnames = list(X = pn, Cancer = TF),
+           dim = c(2, 2), c(0.9,0.1,0.2,0.8))
+cpts <- list(Pollution = P, Smoker = S, Cancer = C,
+             Dyspnoea = D, X = X)
+bl.cancer.fit = custom.fit(bl.cancer, cpts) #DAG and CPTs combined to form a fully-specified BN
+
+
+#Asking for DAG information
+bl.cancer #to see extra information about the model
+nbr(bl.cancer, node = 'Cancer') #to ask for the closest nodes to the cancer node
+
+#How many and which nodes have a v-structure in the network?
+vstructs(bl.cancer)
+
+#Gives us the number of parameters need to create the BN based on the data provided
+nparams(bl.cancer.fit) 
+
+#Ask for paths between nodes
+path(bl.cancer, from = "Pollution", to = "Smoker")
+path(bl.cancer, from = "Pollution", to = "Cancer")
+path(bl.cancer, from = "Pollution", to = "Dyspnoea")
+path(bl.cancer, from = "Pollution", to = "X")
+
+path(bl.cancer, from = "Smoker", to = "Pollution")
+path(bl.cancer, from = "Smoker", to = "Cancer")
+path(bl.cancer, from = "Smoker", to = "Dyspnoea")
+path(bl.cancer, from = "Smoker", to = "X")
+
+path(bl.cancer, from = "Cancer", to = "Pollution")
+path(bl.cancer, from = "Cancer", to = "Smoker")
+path(bl.cancer, from = "Cancer", to = "Dyspnoea")
+path(bl.cancer, from = "Cancer", to = "X")
+
+path(bl.cancer, from = "Dyspnoea", to = "Pollution")
+path(bl.cancer, from = "Dyspnoea", to = "Smoker")
+path(bl.cancer, from = "Dyspnoea", to = "Cancer")
+path(bl.cancer, from = "Dyspnoea", to = "X")
+
+path(bl.cancer, from = "X", to = "Pollution")
+path(bl.cancer, from = "X", to = "Smoker")
+path(bl.cancer, from = "X", to = "Cancer")
+path(bl.cancer, from = "X", to = "Dyspnoea")
+
+#Are X and Y conditionally independent given the evidence Z?
+dsep(bn=bl.cancer, x='Cancer', y='Dyspnoea', z='Smoker') #Is Cancer independent of Dyspnoea given Smoker?
+dsep(bn=bl.cancer, x='Cancer', y='X', z='Smoker')  #Is Cancer independent of X given Smoker? 
+
+dsep(bn=bl.cancer, x='Cancer', y='X', z='Pollution')  #Is Cancer independent of X given Pollution?
+dsep(bn=bl.cancer, x='Cancer', y='Dyspnoea', z='Pollution')  #Is Cancer independent of Dyspnoea given Pollution?
+
+dsep(bn=bl.cancer, x='Dyspnoea', y='X', z='Cancer') #Are Dyspnoea and X independents given Cancer
+
+dsep(bn=bl.cancer, x='X', y='Dyspnoea', z='Smoker') #Are Dyspnoea and X independents given Smoker
+
+dsep(bn=bl.cancer, x='X', y='Dyspnoea', z='Pollution')#Are Dyspnoea and X independents given Pollution
+
+#Distinguir las independencia básica usando un criterio grafico. 
+#Es la llamada Markov condition y es la condición independiente de no ser descendiente dado unos parentales 
+
+
+#Representing probabilities information for different nodes
+bl.cancer.fit$C$prob
+bn.net(bl.cancer.fit)
+
+bn.fit.barchart(bl.cancer.fit$P, main = 'Probabilities of having low or hight pollution')
+bn.fit.barchart(bl.cancer.fit$S, main = 'Probabilities of being or not smoker')
+bn.fit.barchart(bl.cancer.fit$C, main = 'Probabilities of having cancer giving a high or low pollution + being or not smoker')
+bn.fit.barchart(bl.cancer.fit$D, main = 'Probabilities of having dyspnoea giving or not a cancer diagnosis')
+bn.fit.barchart(bl.cancer.fit$X, main = 'Probabilities of having - vs + results in X having or not cancer')
+
+#_________________________________________________________________________________________________________________________________________________________________________________________
+
+
+#GRAIN. QUERIES PERFORMANCE. INFERENCE
+gr.cancer <- as.grain(bl.cancer.fit)
+
+#Adding information to each nodes: states and probabilities
+TF <- c("True","False")
+lh <- c("low","high")
+pn <- c("positive","negative")
+
+P <- cptable (~Pollution, values=c(0.9,0.1), levels=lh)
+S <- cptable(~Smoker, values=c(0.3,0.7),levels=TF)
+C <- cptable(~Cancer+Pollution+Smoker, values=c(0.03,0.97,0.001,0.999,0.05,0.95,0.02,0.98),levels=(TF))
+D <- cptable(~Dyspnoea+Cancer,values=c(0.65,0.35,0.3,0.7),levels=(TF))
+X <- cptable(~X+Cancer,values=c(0.9,0.1,0.2,0.8),levels=(TF))
+cptlist <- compileCPT(list(P,S,C,D,X))
+gr.cancer.orig <- grain(cptlist)
+plot(gr.cancer.orig)
+
+#Asking about information. Te da una tabla con la probabilidad en base a varias variables
+gr.cancer.orig$cptlist$Cancer
+
+#Query the network
+gr.cancer <- compile (gr.cancer.orig) #compile the grain network
+querygrain(object=gr.cancer, nodes="P") #query the network. Select the node
+querygrain(object=gr.cancer, nodes="S")
+querygrain(object=gr.cancer, nodes="C")
+querygrain(object=gr.cancer, nodes="X")
+querygrain(object=gr.cancer, nodes="D")
+
+
+#EXACT INFERENCE
+#Joint probabilities for the variables of interest are desired. Extraction of the probabilities of events from the obtained distributions
+cancer.gr.query <- as.grain(bl.cancer.fit)
+querygrain(cancer.gr.query, nodes = c("Dyspnoea", "Cancer"), type="joint")
+querygrain(cancer.gr.query, nodes = c("X", "Cancer"), type="joint")
+querygrain(cancer.gr.query, nodes = c("Dyspnoea", "X", "Cancer"), type="joint")
+
+
+#APPROXIMATE INFERENCE
+cancer.gr <- as.grain(bl.cancer.fit)
+cancer.gr <- compile(cancer.gr)
+cancer.gr
+
+#Forward sampling with bnlearn. Particle-based inference
+#200 sample per node. Evidence=TRUE means that we are not conditioning on any evidence
+set.seed(0)
+samplesf.cancer <- cpdist(bl.cancer.fit, nodes = nodes(bl.cancer.fit),
+                       evidence = TRUE, n = 200) #cpdist creates a sample of 200 instances
+summary(samples.cancer) #Visualization of the created sample of 15 instances.
+
+#To estimate any probability of interest from the previous created sample
+p <- table(samples.cancer[, c('Dyspnoea','X', 'Cancer')])
+prop.table(p) #output:probability for each case
+p #output: number of cases
+
+#Likelihood weighting
+set.seed(0)
+sampleslw.cancer <- cpdist(bl.cancer.fit, nodes = nodes(bl.cancer.fit),
+                       evidence=list(Cancer = "True"),n=200, method = "lw")
+sampleslw.cancer#List where the evidence set is cancer True
+
+w <- attr(sampleslw.cancer, 'weights')
+summary(w) #The weight of the sample
+prop.table(xtabs(w ~ Dyspnoea + X + Cancer,
+                 data = cbind(sampleslw.cancer, w = w))) #asking queries about events or distributions
+
+
+#Probabilities given certain evidences
+gr.cancerE<-setEvidence(object=gr.cancer, nodes="Pollution", states="low") #Pollution low is set as an evidence and then the probability of this evidence is shown
+gr.cancerE<-setEvidence(object=gr.cancer, nodes="Smoker", states="True") #Adding the evidence smoker true to the previous one, obtaining the probability with the  2 evidences at the same time
+#gr.cancerR <- retractEvidence(gr.cancerE, nodes="Pollution") #To delete the pollution evidence
+#gr.cancerR
+gr.cancerE #To see the probability given the evidence previously defined
